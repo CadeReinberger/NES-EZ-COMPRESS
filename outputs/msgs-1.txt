@@ -132,9 +132,8 @@ msg_000e:  ;It cost him damn near four thousand[\n]bucks
 
 msg_000f:  ;He's got a lot of dough, now
   .db $00,$7A,$1F,$13,$00,$4C,$00,$01
-  .db $00,$0c,$0f,$14,$00,$3F,$00,$04
-  .db $0f,$15,$07,$08,$1C,$00,$0e,$0f
-  .db $17
+  .db $00,$0c,$0f,$14,$00,$3F,$00,$100
+  .db $1C,$00,$0e,$0f,$17
 
 msg_0010:  ;He didn't use to
   .db $00,$7A,$00,$3E,$1F,$14,$00,$15
@@ -1001,8 +1000,7 @@ msg_0080:  ;They didn't have a maid or[\n]anything, and they always opened the d
 
 msg_0081:  ;They didn't have too much dough
   .db $00,$40,$00,$3E,$1F,$14,$00,$4E
-  .db $00,$39,$0f,$00,$DD,$00,$04,$0f
-  .db $15,$07,$08
+  .db $00,$39,$0f,$00,$DD,$00,$100
 
 msg_0082:  ;[\n]"Holden!" Mrs
   .db $3D,$2A,$8F,$1D,$2A,$00,$E2

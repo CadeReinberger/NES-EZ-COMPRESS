@@ -4,6 +4,7 @@ import os
 from datetime import datetime
 from textwrap import wrap
 from timeit import default_timer as tictoc
+import pyperclip
 
 def read_text(filename):
     with open(filename, 'r') as f:
@@ -91,7 +92,7 @@ def john_alg(filename, dict_size):
 def create_lut_output(lut):
     lines = []
     for ind in range(len(lut)):
-        numstr = hex(ind + 49).zfill(2)[2:].upper()
+        numstr = hex(ind + 48).zfill(2)[2:].upper()
         res = 'word_' + numstr + ':  ;' 
         wrapped_comment = wrap(lut[ind], max_comment_line_length)
         res += wrapped_comment[0] + '\n'
@@ -178,7 +179,7 @@ def run_program():
         os.mkdir(path)  
     except OSError:  
         pass 
-    dict_size = 2 ** num_encoding_bits - 49
+    dict_size = 2 ** num_encoding_bits - 48
     LUT, RO = john_alg(input_file_path, dict_size)
     lut_lines = create_lut_output(LUT)
     msgs = create_messages_output(RO, LUT)
@@ -205,6 +206,5 @@ def run_program():
     et = tictoc()
     print('Completed in ' + str(round(et - st, 4)) + ' seconds')
     print('Compression Ratio: ' + str(round(ss, 3)) + '%')
-    
 
 run_program()
