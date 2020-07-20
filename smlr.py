@@ -27,7 +27,7 @@ def compute_most_freq(m_string):
     #the model behind this sort, while simple, is the key to the program
     sol = [k  for k, v in
            sorted(freqs_dict.items(), 
-           key = lambda x: (len(x[0]) - 1) * x[1],
+           key = lambda x: (len(x[0]) - 1) * (x[1] - 1),
            reverse = True)]
     return sol            
 
@@ -113,6 +113,13 @@ def create_lut_output(lut):
         lines.append(res)
     return lines
 
+def get_space_savings_rate(raw_text, LUT):
+    num_raw_bytes = len(raw_text)
+    def get_bytes_saved(substr):
+        return (len(substr) - 1) * (len(re.findall(substr, raw_text)) - 1)
+    num_bytes_saved = sum([get_bytes_saved(elem) for elem in LUT])
+    return num_bytes_saved / num_raw_bytes
+
 def create_messages_output(raw_text, LUT):
     messages = [[]]
     byte_counter = 0
@@ -175,6 +182,7 @@ def run_program():
     LUT, RO = john_alg(input_file_path, dict_size)
     lut_lines = create_lut_output(LUT)
     msgs = create_messages_output(RO, LUT)
+    ss = 100 * get_space_savings_rate(RO, LUT)
     timestr = ''
     if uses_timestamp:
         now = datetime.now()
@@ -196,5 +204,7 @@ def run_program():
         raise Exception('ERROR! FILE SIZE TOO LARGE')   
     et = tictoc()
     print('Completed in ' + str(round(et - st, 4)) + ' seconds')
+    print('Compression Ratio: ' + str(round(ss, 3)) + '%')
+    
 
 run_program()

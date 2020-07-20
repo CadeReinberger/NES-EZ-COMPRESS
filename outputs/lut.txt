@@ -10,14 +10,14 @@ word_33:  ;that
 word_34:  ;was
   .db $17,$01,$13,$3F
 
-word_35:  ;Spencer
-  .db $13,$10,$05,$0e,$03,$05,$12,$3F
-
-word_36:  ;around
+word_35:  ;around
   .db $01,$12,$0f,$15,$0e,$04,$3F
 
-word_37:  ;Pencey
+word_36:  ;Pencey
   .db $10,$05,$0e,$03,$05,$19,$3F
+
+word_37:  ;Spencer
+  .db $13,$10,$05,$0e,$03,$05,$12,$3F
 
 word_38:  ;you
   .db $19,$0f,$15,$3F
@@ -25,11 +25,11 @@ word_38:  ;you
 word_39:  ;to
   .db $14,$0f,$3F
 
-word_3A:  ;about
-  .db $01,$02,$0f,$15,$14,$3F
-
-word_3B:  ;all
+word_3A:  ;all
   .db $01,$0c,$0c,$3F
+
+word_3B:  ;about
+  .db $01,$02,$0f,$15,$14,$3F
 
 word_3C:  ;probably
   .db $10,$12,$0f,$02,$01,$02,$0c,$19
@@ -39,12 +39,11 @@ word_3D:  ;anything
   .db $01,$0e,$19,$14,$08,$09,$0e,$07
   .db $3F
 
-word_3E:  ;especially
-  .db $05,$13,$10,$05,$03,$09,$01,$0c
-  .db $0c,$19,$3F
-
-word_3F:  ;didn
+word_3E:  ;didn
   .db $04,$09,$04,$0e,$3F
+
+word_3F:  ;of
+  .db $0f,$06,$3F
 
 word_40:  ;They
   .db $14,$08,$05,$19,$3F
@@ -55,242 +54,239 @@ word_41:  ;this
 word_42:  ;with
   .db $17,$09,$14,$08,$3F
 
-word_43:  ;of
-  .db $0f,$06,$3F
-
-word_44:  ;know
+word_43:  ;know
   .db $0b,$0e,$0f,$17,$3F
 
-word_45:  ;were
+word_44:  ;were
   .db $17,$05,$12,$05,$3F
+
+word_45:  ;especially
+  .db $05,$13,$10,$05,$03,$09,$01,$0c
+  .db $0c,$19,$3F
 
 word_46:  ;pretty
   .db $10,$12,$05,$14,$14,$19,$3F
 
-word_47:  ;practically
+word_47:  ;like
+  .db $0c,$09,$0b,$05,$3F
+
+word_48:  ;place
+  .db $10,$0c,$01,$03,$05,$3F
+
+word_49:  ;just
+  .db $0a,$15,$13,$14,$3F
+
+word_4A:  ;because
+  .db $02,$05,$03,$01,$15,$13,$05,$3F
+
+word_4B:  ;it
+  .db $09,$14,$3F
+
+word_4C:  ;got
+  .db $07,$0f,$14,$3F
+
+word_4D:  ;out
+  .db $0f,$15,$14,$3F
+
+word_4E:  ;have
+  .db $08,$01,$16,$05,$3F
+
+word_4F:  ;back
+  .db $02,$01,$03,$0b,$3F
+
+word_50:  ;my
+  .db $0d,$19,$3F
+
+word_51:  ;before
+  .db $02,$05,$06,$0f,$12,$05,$3F
+
+word_52:  ;me
+  .db $0d,$05,$3F
+
+word_53:  ;in
+  .db $09,$0e,$3F
+
+word_54:  ;practically
   .db $10,$12,$01,$03,$14,$09,$03,$01
   .db $0c,$0c,$19,$3F
 
-word_48:  ;because
-  .db $02,$05,$03,$01,$15,$13,$05,$3F
-
-word_49:  ;place
-  .db $10,$0c,$01,$03,$05,$3F
-
-word_4A:  ;like
-  .db $0c,$09,$0b,$05,$3F
-
-word_4B:  ;just
-  .db $0a,$15,$13,$14,$3F
-
-word_4C:  ;before
-  .db $02,$05,$06,$0f,$12,$05,$3F
-
-word_4D:  ;school
+word_55:  ;school
   .db $13,$03,$08,$0f,$0f,$0c,$3F
 
-word_4E:  ;it
-  .db $09,$14,$3F
+word_56:  ;right
+  .db $12,$09,$07,$08,$14,$3F
 
-word_4F:  ;have
-  .db $08,$01,$16,$05,$3F
+word_57:  ;but
+  .db $02,$15,$14,$3F
 
-word_50:  ;Christmas
+word_58:  ;down
+  .db $04,$0f,$17,$0e,$3F
+
+word_59:  ;The
+  .db $14,$08,$05,$3F
+
+word_5A:  ;even
+  .db $05,$16,$05,$0e,$3F
+
+word_5B:  ;game
+  .db $07,$01,$0d,$05,$3F
+
+word_5C:  ;getting
+  .db $07,$05,$14,$14,$09,$0e,$07,$3F
+
+word_5D:  ;stuff
+  .db $13,$14,$15,$06,$06,$3F
+
+word_5E:  ;quite
+  .db $11,$15,$09,$14,$05,$3F
+
+word_5F:  ;whole
+  .db $17,$08,$0f,$0c,$05,$3F
+
+word_60:  ;Christmas
   .db $03,$08,$12,$09,$13,$14,$0d,$01
   .db $13,$3F
 
-word_51:  ;got
-  .db $07,$0f,$14,$3F
+word_61:  ;for
+  .db $06,$0f,$12,$3F
 
-word_52:  ;out
-  .db $0f,$15,$14,$3F
-
-word_53:  ;something
+word_62:  ;something
   .db $13,$0f,$0d,$05,$14,$08,$09,$0e
   .db $07,$3F
 
-word_54:  ;right
-  .db $12,$09,$07,$08,$14,$3F
+word_63:  ;could
+  .db $03,$0f,$15,$0c,$04,$3F
 
-word_55:  ;back
-  .db $02,$01,$03,$0b,$3F
+word_64:  ;see
+  .db $13,$05,$05,$3F
 
-word_56:  ;getting
-  .db $07,$05,$14,$14,$09,$0e,$07,$3F
+word_65:  ;she
+  .db $13,$08,$05,$3F
 
-word_57:  ;disappearing
-  .db $04,$09,$13,$01,$10,$10,$05,$01
-  .db $12,$09,$0e,$07,$3F
+word_66:  ;really
+  .db $12,$05,$01,$0c,$0c,$19,$3F
 
-word_58:  ;my
-  .db $0d,$19,$3F
+word_67:  ;want
+  .db $17,$01,$0e,$14,$3F
 
-word_59:  ;me
-  .db $0d,$05,$3F
+word_68:  ;what
+  .db $17,$08,$01,$14,$3F
 
-word_5A:  ;in
-  .db $09,$0e,$3F
+word_69:  ;they
+  .db $14,$08,$05,$19,$3F
 
-word_5B:  ;down
-  .db $04,$0f,$17,$0e,$3F
+word_6A:  ;them
+  .db $14,$08,$05,$0d,$3F
 
-word_5C:  ;even
-  .db $05,$16,$05,$0e,$3F
+word_6B:  ;goddam
+  .db $07,$0f,$04,$04,$01,$0d,$3F
 
-word_5D:  ;football
+word_6C:  ;when
+  .db $17,$08,$05,$0e,$3F
+
+word_6D:  ;at
+  .db $01,$14,$3F
+
+word_6E:  ;Anyway
+  .db $01,$0e,$19,$17,$01,$19,$3F
+
+word_6F:  ;wasn
+  .db $17,$01,$13,$0e,$3F
+
+word_70:  ;said
+  .db $13,$01,$09,$04,$3F
+
+word_71:  ;had
+  .db $08,$01,$04,$3F
+
+word_72:  ;on
+  .db $0f,$0e,$3F
+
+word_73:  ;way
+  .db $17,$01,$19,$3F
+
+word_74:  ;football
   .db $06,$0f,$0f,$14,$02,$01,$0c,$0c
   .db $3F
 
-word_5E:  ;game
-  .db $07,$01,$0d,$05,$3F
-
-word_5F:  ;supposed
+word_75:  ;supposed
   .db $13,$15,$10,$10,$0f,$13,$05,$04
   .db $3F
 
-word_60:  ;standing
+word_76:  ;standing
   .db $13,$14,$01,$0e,$04,$09,$0e,$07
   .db $3F
 
-word_61:  ;academic
+word_77:  ;She
+  .db $13,$08,$05,$3F
+
+word_78:  ;her
+  .db $08,$05,$12,$3F
+
+word_79:  ;academic
   .db $01,$03,$01,$04,$05,$0d,$09,$03
   .db $3F
 
-word_62:  ;really
-  .db $12,$05,$01,$0c,$0c,$19,$3F
+word_7A:  ;He
+  .db $08,$05,$3F
 
-word_63:  ;but
-  .db $02,$15,$14,$3F
-
-word_64:  ;stuff
-  .db $13,$14,$15,$06,$06,$3F
-
-word_65:  ;quite
-  .db $11,$15,$09,$14,$05,$3F
-
-word_66:  ;whole
-  .db $17,$08,$0f,$0c,$05,$3F
-
-word_67:  ;goddam
-  .db $07,$0f,$04,$04,$01,$0d,$3F
-
-word_68:  ;The
-  .db $14,$08,$05,$3F
-
-word_69:  ;Anyway
-  .db $01,$0e,$19,$17,$01,$19,$3F
-
-word_6A:  ;could
-  .db $03,$0f,$15,$0c,$04,$3F
-
-word_6B:  ;want
-  .db $17,$01,$0e,$14,$3F
-
-word_6C:  ;what
-  .db $17,$08,$01,$14,$3F
-
-word_6D:  ;parents
-  .db $10,$01,$12,$05,$0e,$14,$13,$3F
-
-word_6E:  ;they
-  .db $14,$08,$05,$19,$3F
-
-word_6F:  ;them
-  .db $14,$08,$05,$0d,$3F
-
-word_70:  ;when
-  .db $17,$08,$05,$0e,$3F
-
-word_71:  ;for
-  .db $06,$0f,$12,$3F
-
-word_72:  ;see
-  .db $13,$05,$05,$3F
-
-word_73:  ;she
-  .db $13,$08,$05,$3F
-
-word_74:  ;wasn
-  .db $17,$01,$13,$0e,$3F
-
-word_75:  ;fencing
-  .db $06,$05,$0e,$03,$09,$0e,$07,$3F
-
-word_76:  ;frequently
-  .db $06,$12,$05,$11,$15,$05,$0e,$14
-  .db $0c,$19,$3F
-
-word_77:  ;said
-  .db $13,$01,$09,$04,$3F
-
-word_78:  ;thing
+word_7B:  ;thing
   .db $14,$08,$09,$0e,$07,$3F
 
-word_79:  ;had
-  .db $08,$01,$04,$3F
+word_7C:  ;parents
+  .db $10,$01,$12,$05,$0e,$14,$13,$3F
 
-word_7A:  ;Hollywood
-  .db $08,$0f,$0c,$0c,$19,$17,$0f,$0f
-  .db $04,$3F
-
-word_7B:  ;never
-  .db $0e,$05,$16,$05,$12,$3F
-
-word_7C:  ;at
-  .db $01,$14,$3F
-
-word_7D:  ;there
-  .db $14,$08,$05,$12,$05,$3F
-
-word_7E:  ;Agerstown
-  .db $01,$07,$05,$12,$13,$14,$0f,$17
-  .db $0e,$3F
-
-word_7F:  ;horse
-  .db $08,$0f,$12,$13,$05,$3F
-
-word_80:  ;other
-  .db $0f,$14,$08,$05,$12,$3F
-
-word_81:  ;way
-  .db $17,$01,$19,$3F
-
-word_82:  ;afternoon
-  .db $01,$06,$14,$05,$12,$0e,$0f,$0f
-  .db $0e,$3F
-
-word_83:  ;She
-  .db $13,$08,$05,$3F
-
-word_84:  ;her
-  .db $08,$05,$12,$3F
-
-word_85:  ;from
+word_7D:  ;from
   .db $06,$12,$0f,$0d,$3F
 
-word_86:  ;over
+word_7E:  ;over
   .db $0f,$16,$05,$12,$3F
 
-word_87:  ;anyway
-  .db $01,$0e,$19,$17,$01,$19,$3F
+word_7F:  ;It
+  .db $09,$14,$3F
 
-word_88:  ;always
-  .db $01,$0c,$17,$01,$19,$13,$3F
+word_80:  ;never
+  .db $0e,$05,$16,$05,$12,$3F
 
-word_89:  ;on
-  .db $0f,$0e,$3F
+word_81:  ;there
+  .db $14,$08,$05,$12,$05,$3F
 
-word_8A:  ;been
+word_82:  ;horse
+  .db $08,$0f,$12,$13,$05,$3F
+
+word_83:  ;been
   .db $02,$05,$05,$0e,$3F
 
-word_8B:  ;hardly
-  .db $08,$01,$12,$04,$0c,$19,$3F
+word_84:  ;other
+  .db $0f,$14,$08,$05,$12,$3F
 
-word_8C:  ;sort
+word_85:  ;old
+  .db $0f,$0c,$04,$3F
+
+word_86:  ;sort
   .db $13,$0f,$12,$14,$3F
 
-word_8D:  ;good
+word_87:  ;fencing
+  .db $06,$05,$0e,$03,$09,$0e,$07,$3F
+
+word_88:  ;good
   .db $07,$0f,$0f,$04,$3F
+
+word_89:  ;disappearing
+  .db $04,$09,$13,$01,$10,$10,$05,$01
+  .db $12,$09,$0e,$07,$3F
+
+word_8A:  ;don
+  .db $04,$0f,$0e,$3F
+
+word_8B:  ;anyway
+  .db $01,$0e,$19,$17,$01,$19,$3F
+
+word_8C:  ;always
+  .db $01,$0c,$17,$01,$19,$13,$3F
+
+word_8D:  ;hardly
+  .db $08,$01,$12,$04,$0c,$19,$3F
 
 word_8E:  ;crooks
   .db $03,$12,$0f,$0f,$0b,$13,$3F
@@ -298,369 +294,355 @@ word_8E:  ;crooks
 word_8F:  ;Holden
   .db $08,$0f,$0c,$04,$05,$0e,$3F
 
-word_90:  ;He
-  .db $08,$05,$3F
+word_90:  ;How
+  .db $08,$0f,$17,$3F
 
-word_91:  ;thousand
-  .db $14,$08,$0f,$15,$13,$01,$0e,$04
-  .db $3F
-
-word_92:  ;terrific
-  .db $14,$05,$12,$12,$09,$06,$09,$03
-  .db $3F
-
-word_93:  ;Goldfish
-  .db $07,$0f,$0c,$04,$06,$09,$13,$08
-  .db $3F
-
-word_94:  ;splendid
-  .db $13,$10,$0c,$05,$0e,$04,$09,$04
-  .db $3F
-
-word_95:  ;thinking
-  .db $14,$08,$09,$0e,$0b,$09,$0e,$07
-  .db $3F
-
-word_96:  ;old
-  .db $0f,$0c,$04,$3F
-
-word_97:  ;remember
-  .db $12,$05,$0d,$05,$0d,$02,$05,$12
-  .db $3F
-
-word_98:  ;vacation
-  .db $16,$01,$03,$01,$14,$09,$0f,$0e
-  .db $3F
-
-word_99:  ;applying
-  .db $01,$10,$10,$0c,$19,$09,$0e,$07
-  .db $3F
-
-word_9A:  ;somebody
-  .db $13,$0f,$0d,$05,$02,$0f,$04,$19
-  .db $3F
-
-word_9B:  ;Tichener
-  .db $14,$09,$03,$08,$05,$0e,$05,$12
-  .db $3F
-
-word_9C:  ;chucking
-  .db $03,$08,$15,$03,$0b,$09,$0e,$07
-  .db $3F
-
-word_9D:  ;building
-  .db $02,$15,$09,$0c,$04,$09,$0e,$07
-  .db $3F
-
-word_9E:  ;It
-  .db $09,$14,$3F
-
-word_9F:  ;hear
+word_91:  ;hear
   .db $08,$05,$01,$12,$3F
+
+word_92:  ;kind
+  .db $0b,$09,$0e,$04,$3F
+
+word_93:  ;told
+  .db $14,$0f,$0c,$04,$3F
+
+word_94:  ;hell
+  .db $08,$05,$0c,$0c,$3F
+
+word_95:  ;home
+  .db $08,$0f,$0d,$05,$3F
+
+word_96:  ;next
+  .db $0e,$05,$18,$14,$3F
+
+word_97:  ;damn
+  .db $04,$01,$0d,$0e,$3F
+
+word_98:  ;time
+  .db $14,$09,$0d,$05,$3F
+
+word_99:  ;we
+  .db $17,$05,$3F
+
+word_9A:  ;more
+  .db $0d,$0f,$12,$05,$3F
+
+word_9B:  ;guys
+  .db $07,$15,$19,$13,$3F
+
+word_9C:  ;came
+  .db $03,$01,$0d,$05,$3F
+
+word_9D:  ;team
+  .db $14,$05,$01,$0d,$3F
+
+word_9E:  ;felt
+  .db $06,$05,$0c,$14,$3F
+
+word_9F:  ;frequently
+  .db $06,$12,$05,$11,$15,$05,$0e,$14
+  .db $0c,$19,$3F
 
 word_A0:  ;where
   .db $17,$08,$05,$12,$05,$3F
 
-word_A1:  ;kind
-  .db $0b,$09,$0e,$04,$3F
-
-word_A2:  ;don
-  .db $04,$0f,$0e,$3F
-
-word_A3:  ;going
+word_A1:  ;going
   .db $07,$0f,$09,$0e,$07,$3F
 
-word_A4:  ;told
-  .db $14,$0f,$0c,$04,$3F
-
-word_A5:  ;hell
-  .db $08,$05,$0c,$0c,$3F
-
-word_A6:  ;autobiography
-  .db $01,$15,$14,$0f,$02,$09,$0f,$07
-  .db $12,$01,$10,$08,$19,$3F
-
-word_A7:  ;home
-  .db $08,$0f,$0d,$05,$3F
-
-word_A8:  ;next
-  .db $0e,$05,$18,$14,$3F
-
-word_A9:  ;damn
-  .db $04,$01,$0d,$0e,$3F
-
-word_AA:  ;anybody
-  .db $01,$0e,$19,$02,$0f,$04,$19,$3F
-
-word_AB:  ;time
-  .db $14,$09,$0d,$05,$3F
-
-word_AC:  ;molding
-  .db $0d,$0f,$0c,$04,$09,$0e,$07,$3F
-
-word_AD:  ;more
-  .db $0d,$0f,$12,$05,$3F
-
-word_AE:  ;guys
-  .db $07,$15,$19,$13,$3F
-
-word_AF:  ;came
-  .db $03,$01,$0d,$05,$3F
-
-word_B0:  ;Saxon
-  .db $13,$01,$18,$0f,$0e,$3F
-
-word_B1:  ;Thomsen
-  .db $14,$08,$0f,$0d,$13,$05,$0e,$3F
-
-word_B2:  ;crazy
-  .db $03,$12,$01,$1a,$19,$3F
-
-word_B3:  ;Revolutionary
-  .db $12,$05,$16,$0f,$0c,$15,$14,$09
-  .db $0f,$0e,$01,$12,$19,$3F
-
-word_B4:  ;team
-  .db $14,$05,$01,$0d,$3F
-
-word_B5:  ;girls
-  .db $07,$09,$12,$0c,$13,$3F
-
-word_B6:  ;least
-  .db $0c,$05,$01,$13,$14,$3F
-
-word_B7:  ;Thurmer
-  .db $14,$08,$15,$12,$0d,$05,$12,$3F
-
-word_B8:  ;liked
-  .db $0c,$09,$0b,$05,$04,$3F
-
-word_B9:  ;looking
-  .db $0c,$0f,$0f,$0b,$09,$0e,$07,$3F
-
-word_BA:  ;felt
-  .db $06,$05,$0c,$14,$3F
-
-word_BB:  ;instead
-  .db $09,$0e,$13,$14,$05,$01,$04,$3F
-
-word_BC:  ;teacher
-  .db $14,$05,$01,$03,$08,$05,$12,$3F
-
-word_BD:  ;started
-  .db $13,$14,$01,$12,$14,$05,$04,$3F
-
-word_BE:  ;leaving
-  .db $0c,$05,$01,$16,$09,$0e,$07,$3F
-
-word_BF:  ;Finally
-  .db $06,$09,$0e,$01,$0c,$0c,$19,$3F
-
-word_C0:  ;running
-  .db $12,$15,$0e,$0e,$09,$0e,$07,$3F
-
-word_C1:  ;house
-  .db $08,$0f,$15,$13,$05,$3F
-
-word_C2:  ;How
-  .db $08,$0f,$17,$3F
-
-word_C3:  ;Pennsylvania
-  .db $10,$05,$0e,$0e,$13,$19,$0c,$16
-  .db $01,$0e,$09,$01,$3F
-
-word_C4:  ;conversation
-  .db $03,$0f,$0e,$16,$05,$12,$13,$01
-  .db $14,$09,$0f,$0e,$3F
-
-word_C5:  ;terrifically
-  .db $14,$05,$12,$12,$09,$06,$09,$03
-  .db $01,$0c,$0c,$19,$3F
-
-word_C6:  ;Copperfield
-  .db $03,$0f,$10,$10,$05,$12,$06,$09
-  .db $05,$0c,$04,$3F
-
-word_C7:  ;second
-  .db $13,$05,$03,$0f,$0e,$04,$3F
-
-word_C8:  ;two
+word_A2:  ;two
   .db $14,$17,$0f,$3F
 
-word_C9:  ;hemorrhages
-  .db $08,$05,$0d,$0f,$12,$12,$08,$01
-  .db $07,$05,$13,$3F
-
-word_CA:  ;touchy
-  .db $14,$0f,$15,$03,$08,$19,$3F
-
-word_CB:  ;father
-  .db $06,$01,$14,$08,$05,$12,$3F
-
-word_CC:  ;saying
-  .db $13,$01,$19,$09,$0e,$07,$3F
-
-word_CD:  ;little
-  .db $0c,$09,$14,$14,$0c,$05,$3F
-
-word_CE:  ;Secret
-  .db $13,$05,$03,$12,$05,$14,$3F
-
-word_CF:  ;wouldn
-  .db $17,$0f,$15,$0c,$04,$0e,$3F
-
-word_D0:  ;his
-  .db $08,$09,$13,$3F
-
-word_D1:  ;we
-  .db $17,$05,$3F
-
-word_D2:  ;cannon
-  .db $03,$01,$0e,$0e,$0f,$0e,$3F
-
-word_D3:  ;though
-  .db $14,$08,$0f,$15,$07,$08,$3F
-
-word_D4:  ;reason
-  .db $12,$05,$01,$13,$0f,$0e,$3F
-
-word_D5:  ;get
-  .db $07,$05,$14,$3F
-
-word_D6:  ;grippe
-  .db $07,$12,$09,$10,$10,$05,$3F
-
-word_D7:  ;kicked
-  .db $0b,$09,$03,$0b,$05,$04,$3F
-
-word_D8:  ;myself
-  .db $0d,$19,$13,$05,$0c,$06,$3F
-
-word_D9:  ;gloves
-  .db $07,$0c,$0f,$16,$05,$13,$3F
-
-word_DA:  ;dinner
-  .db $04,$09,$0e,$0e,$05,$12,$3F
-
-word_DB:  ;darker
-  .db $04,$01,$12,$0b,$05,$12,$3F
-
-word_DC:  ;breath
-  .db $02,$12,$05,$01,$14,$08,$3F
-
-word_DD:  ;across
-  .db $01,$03,$12,$0f,$13,$13,$3F
-
-word_DE:  ;frozen
-  .db $06,$12,$0f,$1a,$05,$0e,$3F
-
-word_DF:  ;opened
-  .db $0f,$10,$05,$0e,$05,$04,$3F
-
-word_E0:  ;closet
-  .db $03,$0c,$0f,$13,$05,$14,$3F
-
-word_E1:  ;feel
-  .db $06,$05,$05,$0c,$3F
-
-word_E2:  ;nice
-  .db $0e,$09,$03,$05,$3F
-
-word_E3:  ;tell
-  .db $14,$05,$0c,$0c,$3F
-
-word_E4:  ;or
+word_A3:  ;or
   .db $0f,$12,$3F
 
-word_E5:  ;last
+word_A4:  ;Hollywood
+  .db $08,$0f,$0c,$0c,$19,$17,$0f,$0f
+  .db $04,$3F
+
+word_A5:  ;his
+  .db $08,$09,$13,$3F
+
+word_A6:  ;Agerstown
+  .db $01,$07,$05,$12,$13,$14,$0f,$17
+  .db $0e,$3F
+
+word_A7:  ;Saxon
+  .db $13,$01,$18,$0f,$0e,$3F
+
+word_A8:  ;afternoon
+  .db $01,$06,$14,$05,$12,$0e,$0f,$0f
+  .db $0e,$3F
+
+word_A9:  ;crazy
+  .db $03,$12,$01,$1a,$19,$3F
+
+word_AA:  ;girls
+  .db $07,$09,$12,$0c,$13,$3F
+
+word_AB:  ;least
+  .db $0c,$05,$01,$13,$14,$3F
+
+word_AC:  ;liked
+  .db $0c,$09,$0b,$05,$04,$3F
+
+word_AD:  ;get
+  .db $07,$05,$14,$3F
+
+word_AE:  ;house
+  .db $08,$0f,$15,$13,$05,$3F
+
+word_AF:  ;he
+  .db $08,$05,$3F
+
+word_B0:  ;thousand
+  .db $14,$08,$0f,$15,$13,$01,$0e,$04
+  .db $3F
+
+word_B1:  ;terrific
+  .db $14,$05,$12,$12,$09,$06,$09,$03
+  .db $3F
+
+word_B2:  ;Goldfish
+  .db $07,$0f,$0c,$04,$06,$09,$13,$08
+  .db $3F
+
+word_B3:  ;splendid
+  .db $13,$10,$0c,$05,$0e,$04,$09,$04
+  .db $3F
+
+word_B4:  ;thinking
+  .db $14,$08,$09,$0e,$0b,$09,$0e,$07
+  .db $3F
+
+word_B5:  ;remember
+  .db $12,$05,$0d,$05,$0d,$02,$05,$12
+  .db $3F
+
+word_B6:  ;vacation
+  .db $16,$01,$03,$01,$14,$09,$0f,$0e
+  .db $3F
+
+word_B7:  ;applying
+  .db $01,$10,$10,$0c,$19,$09,$0e,$07
+  .db $3F
+
+word_B8:  ;somebody
+  .db $13,$0f,$0d,$05,$02,$0f,$04,$19
+  .db $3F
+
+word_B9:  ;Tichener
+  .db $14,$09,$03,$08,$05,$0e,$05,$12
+  .db $3F
+
+word_BA:  ;chucking
+  .db $03,$08,$15,$03,$0b,$09,$0e,$07
+  .db $3F
+
+word_BB:  ;building
+  .db $02,$15,$09,$0c,$04,$09,$0e,$07
+  .db $3F
+
+word_BC:  ;how
+  .db $08,$0f,$17,$3F
+
+word_BD:  ;feel
+  .db $06,$05,$05,$0c,$3F
+
+word_BE:  ;if
+  .db $09,$06,$3F
+
+word_BF:  ;nice
+  .db $0e,$09,$03,$05,$3F
+
+word_C0:  ;not
+  .db $0e,$0f,$14,$3F
+
+word_C1:  ;as
+  .db $01,$13,$3F
+
+word_C2:  ;tell
+  .db $14,$05,$0c,$0c,$3F
+
+word_C3:  ;last
   .db $0c,$01,$13,$14,$3F
 
-word_E6:  ;near
+word_C4:  ;too
+  .db $14,$0f,$0f,$3F
+
+word_C5:  ;can
+  .db $03,$01,$0e,$3F
+
+word_C6:  ;near
   .db $0e,$05,$01,$12,$3F
 
-word_E7:  ;prostitute
-  .db $10,$12,$0f,$13,$14,$09,$14,$15
-  .db $14,$05,$3F
+word_C7:  ;one
+  .db $0f,$0e,$05,$3F
 
-word_E8:  ;left
+word_C8:  ;anybody
+  .db $01,$0e,$19,$02,$0f,$04,$19,$3F
+
+word_C9:  ;left
   .db $0c,$05,$06,$14,$3F
 
-word_E9:  ;once
+word_CA:  ;You
+  .db $19,$0f,$15,$3F
+
+word_CB:  ;once
   .db $0f,$0e,$03,$05,$3F
 
-word_EA:  ;underneath
-  .db $15,$0e,$04,$05,$12,$0e,$05,$01
-  .db $14,$08,$3F
+word_CC:  ;molding
+  .db $0d,$0f,$0c,$04,$09,$0e,$07,$3F
 
-word_EB:  ;many
+word_CD:  ;many
   .db $0d,$01,$0e,$19,$3F
 
-word_EC:  ;Hall
+word_CE:  ;Hall
   .db $08,$01,$0c,$0c,$3F
 
-word_ED:  ;very
+word_CF:  ;very
   .db $16,$05,$12,$19,$3F
 
-word_EE:  ;grandstand
-  .db $07,$12,$01,$0e,$04,$13,$14,$01
-  .db $0e,$04,$3F
+word_D0:  ;up
+  .db $15,$10,$3F
 
-word_EF:  ;side
+word_D1:  ;Thomsen
+  .db $14,$08,$0f,$0d,$13,$05,$0e,$3F
+
+word_D2:  ;side
   .db $13,$09,$04,$05,$3F
 
-word_F0:  ;Only
+word_D3:  ;Only
   .db $0f,$0e,$0c,$19,$3F
 
-word_F1:  ;only
+word_D4:  ;only
   .db $0f,$0e,$0c,$19,$3F
 
-word_F2:  ;scratching
-  .db $13,$03,$12,$01,$14,$03,$08,$09
-  .db $0e,$07,$3F
+word_D5:  ;Thurmer
+  .db $14,$08,$15,$12,$0d,$05,$12,$3F
 
-word_F3:  ;headmaster
-  .db $08,$05,$01,$04,$0d,$01,$13,$14
-  .db $05,$12,$3F
+word_D6:  ;looking
+  .db $0c,$0f,$0f,$0b,$09,$0e,$07,$3F
 
-word_F4:  ;knew
+word_D7:  ;knew
   .db $0b,$0e,$05,$17,$3F
 
-word_F5:  ;dinnertime
-  .db $04,$09,$0e,$0e,$05,$12,$14,$09
-  .db $0d,$05,$3F
+word_D8:  ;instead
+  .db $09,$0e,$13,$14,$05,$01,$04,$3F
 
-word_F6:  ;ostracized
-  .db $0f,$13,$14,$12,$01,$03,$09,$1a
-  .db $05,$04,$3F
+word_D9:  ;teacher
+  .db $14,$05,$01,$03,$08,$05,$12,$3F
 
-word_F7:  ;conference
-  .db $03,$0f,$0e,$06,$05,$12,$05,$0e
-  .db $03,$05,$3F
+word_DA:  ;started
+  .db $13,$14,$01,$12,$14,$05,$04,$3F
 
-word_F8:  ;reversible
-  .db $12,$05,$16,$05,$12,$13,$09,$02
-  .db $0c,$05,$3F
-
-word_F9:  ;coat
+word_DB:  ;coat
   .db $03,$0f,$01,$14,$3F
 
-word_FA:  ;kept
+word_DC:  ;kept
   .db $0b,$05,$10,$14,$3F
 
-word_FB:  ;much
+word_DD:  ;much
   .db $0d,$15,$03,$08,$3F
 
-word_FC:  ;remembered
-  .db $12,$05,$0d,$05,$0d,$02,$05,$12
-  .db $05,$04,$3F
+word_DE:  ;leaving
+  .db $0c,$05,$01,$16,$09,$0e,$07,$3F
 
-word_FD:  ;door
+word_DF:  ;Finally
+  .db $06,$09,$0e,$01,$0c,$0c,$19,$3F
+
+word_E0:  ;running
+  .db $12,$15,$0e,$0e,$09,$0e,$07,$3F
+
+word_E1:  ;door
   .db $04,$0f,$0f,$12,$3F
 
-word_FE:  ;themselves
-  .db $14,$08,$05,$0d,$13,$05,$0c,$16
-  .db $05,$13,$3F
+word_E2:  ;Mrs
+  .db $0d,$12,$13,$3F
 
-word_FF:  ;dear
+word_E3:  ;dear
   .db $04,$05,$01,$12,$3F
+
+word_E4:  ;second
+  .db $13,$05,$03,$0f,$0e,$04,$3F
+
+word_E5:  ;touchy
+  .db $14,$0f,$15,$03,$08,$19,$3F
+
+word_E6:  ;father
+  .db $06,$01,$14,$08,$05,$12,$3F
+
+word_E7:  ;saying
+  .db $13,$01,$19,$09,$0e,$07,$3F
+
+word_E8:  ;little
+  .db $0c,$09,$14,$14,$0c,$05,$3F
+
+word_E9:  ;Secret
+  .db $13,$05,$03,$12,$05,$14,$3F
+
+word_EA:  ;wouldn
+  .db $17,$0f,$15,$0c,$04,$0e,$3F
+
+word_EB:  ;cannon
+  .db $03,$01,$0e,$0e,$0f,$0e,$3F
+
+word_EC:  ;though
+  .db $14,$08,$0f,$15,$07,$08,$3F
+
+word_ED:  ;reason
+  .db $12,$05,$01,$13,$0f,$0e,$3F
+
+word_EE:  ;grippe
+  .db $07,$12,$09,$10,$10,$05,$3F
+
+word_EF:  ;kicked
+  .db $0b,$09,$03,$0b,$05,$04,$3F
+
+word_F0:  ;myself
+  .db $0d,$19,$13,$05,$0c,$06,$3F
+
+word_F1:  ;gloves
+  .db $07,$0c,$0f,$16,$05,$13,$3F
+
+word_F2:  ;dinner
+  .db $04,$09,$0e,$0e,$05,$12,$3F
+
+word_F3:  ;darker
+  .db $04,$01,$12,$0b,$05,$12,$3F
+
+word_F4:  ;breath
+  .db $02,$12,$05,$01,$14,$08,$3F
+
+word_F5:  ;across
+  .db $01,$03,$12,$0f,$13,$13,$3F
+
+word_F6:  ;frozen
+  .db $06,$12,$0f,$1a,$05,$0e,$3F
+
+word_F7:  ;opened
+  .db $0f,$10,$05,$0e,$05,$04,$3F
+
+word_F8:  ;closet
+  .db $03,$0c,$0f,$13,$05,$14,$3F
+
+word_F9:  ;If
+  .db $09,$06,$3F
+
+word_FA:  ;first
+  .db $06,$09,$12,$13,$14,$3F
+
+word_FB:  ;is
+  .db $09,$13,$3F
+
+word_FC:  ;truth
+  .db $14,$12,$15,$14,$08,$3F
+
+word_FD:  ;every
+  .db $05,$16,$05,$12,$19,$3F
+
+word_FE:  ;those
+  .db $14,$08,$0f,$13,$05,$3F
+
+word_FF:  ;him
+  .db $08,$09,$0d,$3F
 
