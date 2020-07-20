@@ -4,7 +4,6 @@ import os
 from datetime import datetime
 from textwrap import wrap
 from timeit import default_timer as tictoc
-import pyperclip
 
 def read_text(filename):
     with open(filename, 'r') as f:
@@ -131,7 +130,8 @@ def create_messages_output(raw_text, LUT):
         num_adds_since_newline = 0
         index = 0
         message_bytes = 0
-        message_str = 'msg_' + hex(message_counter)[2:].zfill(4) + ':  ;'
+        message_str = 'msg_' + hex(message_counter)[2:].zfill(4).upper() 
+        message_str += ':  ;'
         wrapped_comment = wrap(message.replace('\n', r"[\n]").strip(), 
                                max_comment_line_length)
         if len(wrapped_comment) == 0:
