@@ -200,7 +200,7 @@ def run_program():
             f.writelines(msgs[ind - 1])
             all_files.append(cur_file_name)
     tot_size = sum([os.path.getsize(fn) for fn in all_files])
-    if tot_size > 1024 * max_out_filesize:
+    if tot_size > 1024 * max_out_filesize and checks_out_filesize:
         raise Exception('ERROR! FILE SIZE TOO LARGE')   
     et = tictoc()
     print('Completed in ' + str(round(et - st, 4)) + ' seconds')
