@@ -23,7 +23,7 @@ output_dir_name = 'outputs'
 #if true, each run of the program will generate a unique save marked with 
 #the timestamp. If false, they will simply overwrite each other in the global
 #file
-uses_timestamp = False
+uses_timestamp = True
 
 #base file name of the output text file
 base_output_msg_file = 'msgs'

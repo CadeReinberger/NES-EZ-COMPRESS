@@ -1,0 +1,1142 @@
+msg_0000:  ;If you really want to hear about it, the first thing you'll probably want to know is where I
+           was[\n]born, an what my lousy childhood was like, and how my parents were occupied and all
+           before[\n]they had me, and all that David Copperfield kind of crap, but I don't feel like going into
+           it, if you[\n]want to know the truth
+  .db $F9,$00,$38,$00,$66,$00,$67,$00
+  .db $39,$00,$91,$00,$3B,$00,$4B,$1C
+  .db $00,$31,$00,$FA,$00,$7B,$00,$38
+  .db $1F,$0c,$0c,$00,$3C,$00,$67,$00
+  .db $39,$00,$43,$00,$FB,$00,$A0,$00
+  .db $09,$00,$34,$3D,$02,$A3,$0e,$1C
+  .db $00,$01,$0e,$00,$68,$00,$50,$00
+  .db $0c,$0f,$15,$13,$19,$00,$03,$08
+  .db $09,$0c,$04,$08,$0f,$0f,$04,$00
+  .db $34,$00,$47,$1C,$00,$32,$00,$BC
+  .db $00,$50,$00,$7C,$00,$44,$00,$0f
+  .db $03,$03,$D0,$09,$05,$04,$00,$32
+  .db $00,$3A,$00,$51,$3D,$31,$19,$00
+  .db $71,$00,$52,$1C,$00,$32,$00,$3A
+  .db $00,$33,$00,$04,$01,$16,$09,$04
+  .db $00,$03,$0f,$10,$10,$05,$12,$06
+  .db $09,$05,$0c,$04,$00,$92,$00,$3F
+  .db $00,$03,$12,$01,$10,$1C,$00,$57
+  .db $00,$09,$00,$8A,$1F,$14,$00,$BD
+  .db $00,$47,$00,$A1,$00,$53,$39,$00
+  .db $4B,$1C,$00,$BE,$00,$38,$3D,$67
+  .db $00,$39,$00,$43,$00,$31,$00,$FC
+
+msg_0001:  ;In the first place, that stuff bores me, and in the second place, my parents[\n]would have about two
+           hemorrhages apiece if I told anything pretty personal about them
+  .db $00,$09,$0e,$00,$31,$00,$FA,$00
+  .db $48,$1C,$00,$33,$00,$5D,$00,$02
+  .db $A3,$05,$13,$00,$52,$1C,$00,$32
+  .db $00,$53,$00,$31,$00,$E4,$00,$48
+  .db $1C,$00,$50,$00,$7C,$3D,$17,$0f
+  .db $15,$0c,$04,$00,$4E,$00,$3B,$00
+  .db $A2,$00,$AF,$0d,$A3,$12,$08,$01
+  .db $07,$05,$13,$00,$01,$10,$09,$05
+  .db $03,$05,$00,$BE,$00,$09,$00,$39
+  .db $0c,$04,$00,$3D,$00,$46,$00,$10
+  .db $05,$12,$13,$72,$01,$0c,$00,$3B
+  .db $00,$31,$0d
+
+msg_0002:  ;They're[\n]quite touchy about anything like that, especially my father
+  .db $00,$40,$1F,$12,$05,$3D,$5E,$00
+  .db $39,$15,$03,$08,$19,$00,$3B,$00
+  .db $3D,$00,$47,$00,$33,$1C,$00,$45
+  .db $00,$50,$00,$E6
+
+msg_0003:  ;They're nice and all--I'm not saying[\n]that--but they're also touchy as hell
+  .db $00,$40,$1F,$12,$05,$00,$BF,$00
+  .db $32,$00,$3A,$2F,$2F,$09,$1F,$0d
+  .db $00,$C0,$00,$E7,$3D,$33,$2F,$2F
+  .db $57,$00,$31,$19,$1F,$12,$05,$00
+  .db $01,$0c,$13,$0f,$00,$39,$15,$03
+  .db $08,$19,$00,$C1,$00,$94
+
+msg_0004:  ;Besides, I'm not going to tell you my whole goddam[\n]autobiography or anything
+  .db $00,$02,$05,$D2,$13,$1C,$00,$09
+  .db $1F,$0d,$00,$C0,$00,$A1,$00,$39
+  .db $00,$C2,$00,$38,$00,$50,$00,$5F
+  .db $00,$6B,$3D,$01,$15,$39,$02,$09
+  .db $0f,$07,$12,$01,$10,$08,$19,$00
+  .db $A3,$00,$3D
+
+msg_0005:  ;I'll just tell you about this madman stuff that happened to me around[\n]last Christmas just before
+           I got pretty run-down and had to come out here and take it easy
+  .db $00,$09,$1F,$0c,$0c,$00,$49,$00
+  .db $C2,$00,$38,$00,$3B,$00,$41,$00
+  .db $0d,$01,$04,$0d,$01,$0e,$00,$5D
+  .db $00,$33,$00,$08,$01,$10,$10,$05
+  .db $0e,$05,$04,$00,$39,$00,$52,$00
+  .db $35,$3D,$C3,$00,$60,$00,$49,$00
+  .db $51,$00,$09,$00,$4C,$00,$46,$00
+  .db $12,$15,$0e,$2F,$58,$00,$32,$00
+  .db $71,$00,$39,$00,$03,$0f,$52,$00
+  .db $4D,$00,$78,$05,$00,$32,$00,$14
+  .db $01,$0b,$05,$00,$4B,$00,$05,$C1
+  .db $19
+
+msg_0006:  ;I mean[\n]that's all I told D
+  .db $00,$09,$00,$52,$01,$0e,$3D,$33
+  .db $1F,$13,$00,$3A,$00,$09,$00,$39
+  .db $0c,$04,$00,$04
+
+msg_0007:  ;B
+  .db $02
+
+msg_0008:  ;about, and he's my brother and all
+  .db $00,$3B,$1C,$00,$32,$00,$AF,$1F
+  .db $13,$00,$50,$00,$02,$12,$84,$00
+  .db $32,$00,$3A
+
+msg_0009:  ;He's in Hollywood
+  .db $00,$7A,$1F,$13,$00,$53,$00,$A4
+
+msg_000A:  ;That isn't too far from[\n]this crumby place, and he comes over and visits me practically every week
+           end
+  .db $00,$14,$08,$6D,$00,$FB,$0e,$1F
+  .db $14,$00,$39,$0f,$00,$06,$01,$12
+  .db $00,$7D,$3D,$41,$00,$03,$12,$15
+  .db $0d,$02,$19,$00,$48,$1C,$00,$32
+  .db $00,$AF,$00,$03,$0f,$52,$13,$00
+  .db $7E,$00,$32,$00,$16,$FB,$4B,$13
+  .db $00,$52,$00,$54,$00,$FD,$00,$99
+  .db $05,$0b,$00,$05,$0e,$04
+
+msg_000B:  ;He's going to[\n]drive me home when I go home next month maybe
+  .db $00,$7A,$1F,$13,$00,$A1,$00,$39
+  .db $3D,$04,$12,$09,$16,$05,$00,$52
+  .db $00,$95,$00,$6C,$00,$09,$00,$07
+  .db $0f,$00,$95,$00,$96,$00,$0d,$72
+  .db $14,$08,$00,$0d,$01,$19,$02,$05
+
+msg_000C:  ;He just got a Jaguar
+  .db $00,$7A,$00,$49,$00,$4C,$00,$01
+  .db $00,$0a,$01,$07,$15,$01,$12
+
+msg_000D:  ;One of those little[\n]English jobs that can do around two hundred miles an hour
+  .db $00,$0f,$0e,$05,$00,$3F,$00,$FE
+  .db $00,$E8,$3D,$05,$0e,$07,$0c,$FB
+  .db $08,$00,$0a,$0f,$02,$13,$00,$33
+  .db $00,$C5,$00,$04,$0f,$00,$35,$00
+  .db $A2,$00,$08,$15,$0e,$04,$12,$05
+  .db $04,$00,$0d,$09,$0c,$05,$13,$00
+  .db $01,$0e,$00,$08,$0f,$15,$12
+
+msg_000E:  ;It cost him damn near four thousand[\n]bucks
+  .db $00,$7F,$00,$03,$0f,$13,$14,$00
+  .db $FF,$00,$97,$00,$C6,$00,$06,$0f
+  .db $15,$12,$00,$B0,$3D,$02,$15,$03
+  .db $0b,$13
+
+msg_000F:  ;He's got a lot of dough, now
+  .db $00,$7A,$1F,$13,$00,$4C,$00,$01
+  .db $00,$0c,$0f,$14,$00,$3F,$00,$100
+  .db $1C,$00,$0e,$0f,$17
+
+msg_0010:  ;He didn't use to
+  .db $00,$7A,$00,$3E,$1F,$14,$00,$15
+  .db $13,$05,$00,$39
+
+msg_0011:  ;He used to be just a regular writer, when he[\n]was home
+  .db $00,$7A,$00,$15,$13,$05,$04,$00
+  .db $39,$00,$02,$05,$00,$49,$00,$01
+  .db $00,$12,$05,$07,$15,$0c,$01,$12
+  .db $00,$17,$12,$4B,$05,$12,$1C,$00
+  .db $6C,$00,$AF,$3D,$34,$00,$95
+
+msg_0012:  ;He wrote this terrific book of short stories, The Secret Goldfish, in case you never[\n]heard of him
+  .db $00,$7A,$00,$17,$12,$0f,$14,$05
+  .db $00,$41,$00,$B1,$00,$02,$0f,$0f
+  .db $0b,$00,$3F,$00,$13,$08,$A3,$14
+  .db $00,$13,$39,$12,$09,$05,$13,$1C
+  .db $00,$59,$00,$E9,$00,$B2,$1C,$00
+  .db $53,$00,$03,$C1,$05,$00,$38,$00
+  .db $80,$3D,$91,$04,$00,$3F,$00,$FF
+
+msg_0013:  ;The best one in it was "The Secret Goldfish
+  .db $00,$59,$00,$02,$05,$13,$14,$00
+  .db $72,$05,$00,$53,$00,$4B,$00,$34
+  .db $00,$2A,$59,$00,$E9,$00,$B2
+
+msg_0014:  ;" It was about this little kid that[\n]wouldn't let anybody look at his goldfish because he'd bought
+           it with his own money
+  .db $2A,$00,$7F,$00,$34,$00,$3B,$00
+  .db $41,$00,$E8,$00,$0b,$09,$04,$00
+  .db $33,$3D,$EA,$1F,$14,$00,$0c,$05
+  .db $14,$00,$C8,$00,$0c,$0f,$0f,$0b
+  .db $00,$6D,$00,$A5,$00,$07,$85,$06
+  .db $FB,$08,$00,$4A,$00,$AF,$1F,$04
+  .db $00,$02,$0f,$15,$07,$08,$14,$00
+  .db $4B,$00,$42,$00,$A5,$00,$0f,$17
+  .db $0e,$00,$0d,$72,$05,$19
+
+msg_0015:  ;It killed me
+  .db $00,$7F,$00,$0b,$09,$0c,$0c,$05
+  .db $04,$00,$52
+
+msg_0016:  ;[\n]Now he's out in Hollywood, D
+  .db $3D,$0e,$0f,$17,$00,$AF,$1F,$13
+  .db $00,$4D,$00,$53,$00,$A4,$1C,$00
+  .db $04
+
+msg_0017:  ;B
+  .db $02
+
+msg_0018:  ;, being a prostitute
+  .db $1C,$00,$02,$05,$53,$07,$00,$01
+  .db $00,$10,$12,$0f,$13,$14,$4B,$15
+  .db $14,$05
+
+msg_0019:  ;If there's one thing I hate, it's the movies
+  .db $00,$F9,$00,$31,$12,$05,$1F,$13
+  .db $00,$72,$05,$00,$7B,$00,$09,$00
+  .db $08,$6D,$05,$1C,$00,$4B,$1F,$13
+  .db $00,$31,$00,$0d,$0f,$16,$09,$05
+  .db $13
+
+msg_001A:  ;[\n]Don't even mention them to me
+  .db $3D,$04,$72,$1F,$14,$00,$5A,$00
+  .db $52,$0e,$14,$09,$72,$00,$31,$0d
+  .db $00,$39,$00,$52
+
+msg_001B:  ;[\n]Where I want to start telling is the day I left Pencey Prep
+  .db $3D,$17,$78,$05,$00,$09,$00,$67
+  .db $00,$39,$00,$13,$14,$01,$12,$14
+  .db $00,$C2,$53,$07,$00,$FB,$00,$31
+  .db $00,$04,$01,$19,$00,$09,$00,$C9
+  .db $00,$36,$00,$10,$12,$05,$10
+
+msg_001C:  ;Pencey Prep is this school that's in[\n]Agerstown, Pennsylvania
+  .db $00,$36,$00,$10,$12,$05,$10,$00
+  .db $FB,$00,$41,$00,$55,$00,$33,$1F
+  .db $13,$00,$53,$3D,$A6,$1C,$00,$10
+  .db $05,$0e,$0e,$13,$19,$0c,$16,$01
+  .db $0e,$09,$01
+
+msg_001D:  ;You probably heard of it
+  .db $00,$CA,$00,$3C,$00,$91,$04,$00
+  .db $3F,$00,$4B
+
+msg_001E:  ;You've probably seen the ads, anyway
+  .db $00,$CA,$1F,$16,$05,$00,$3C,$00
+  .db $64,$0e,$00,$31,$00,$01,$04,$13
+  .db $1C,$00,$8B
+
+msg_001F:  ;They[\n]advertise in about a thousand magazines, always showing some hotshot guy on a horse
+           jumping[\n]over a fence
+  .db $00,$40,$3D,$01,$04,$16,$05,$12
+  .db $14,$FB,$05,$00,$53,$00,$3B,$00
+  .db $01,$00,$B0,$00,$0d,$01,$07,$01
+  .db $1a,$53,$05,$13,$1C,$00,$8C,$00
+  .db $13,$BC,$53,$07,$00,$13,$0f,$52
+  .db $00,$08,$0f,$14,$13,$08,$0f,$14
+  .db $00,$07,$15,$19,$00,$72,$00,$01
+  .db $00,$82,$00,$0a,$15,$0d,$10,$53
+  .db $07,$3D,$7E,$00,$01,$00,$06,$05
+  .db $0e,$03,$05
+
+msg_0020:  ;Like as if all you ever did at Pencey was play polo all the time
+  .db $00,$0c,$09,$0b,$05,$00,$C1,$00
+  .db $BE,$00,$3A,$00,$38,$00,$05,$16
+  .db $05,$12,$00,$04,$09,$04,$00,$6D
+  .db $00,$36,$00,$34,$00,$10,$0c,$01
+  .db $19,$00,$10,$0f,$0c,$0f,$00,$3A
+  .db $00,$31,$00,$98
+
+msg_0021:  ;I never even once[\n]saw a horse anywhere near the place
+  .db $00,$09,$00,$80,$00,$5A,$00,$72
+  .db $03,$05,$3D,$13,$01,$17,$00,$01
+  .db $00,$82,$00,$01,$0e,$19,$A0,$00
+  .db $C6,$00,$31,$00,$48
+
+msg_0022:  ;And underneath the guy on the horse's picture, it always [\n]says: "Since 1888 we have been molding
+           boys into splendid, clear-thinking young men
+  .db $00,$01,$0e,$04,$00,$15,$0e,$04
+  .db $05,$12,$0e,$05,$6D,$08,$00,$31
+  .db $00,$07,$15,$19,$00,$72,$00,$31
+  .db $00,$82,$1F,$13,$00,$10,$09,$03
+  .db $14,$15,$12,$05,$1C,$00,$4B,$00
+  .db $8C,$00,$3D,$13,$01,$19,$13,$2B
+  .db $00,$2A,$13,$53,$03,$05,$00,$21
+  .db $28,$28,$28,$00,$99,$00,$4E,$00
+  .db $83,$00,$CC,$00,$02,$0f,$19,$13
+  .db $00,$53,$39,$00,$B3,$1C,$00,$03
+  .db $0c,$05,$01,$12,$2F,$B4,$00,$38
+  .db $0e,$07,$00,$52,$0e
+
+msg_0023:  ;" Strictly[\n]for the birds
+  .db $2A,$00,$13,$14,$12,$09,$03,$14
+  .db $0c,$19,$3D,$61,$00,$31,$00,$02
+  .db $09,$12,$04,$13
+
+msg_0024:  ;They don't do any damn more molding at Pencey than they do at any other school
+  .db $00,$40,$00,$8A,$1F,$14,$00,$04
+  .db $0f,$00,$01,$0e,$19,$00,$97,$00
+  .db $9A,$00,$CC,$00,$6D,$00,$36,$00
+  .db $14,$08,$01,$0e,$00,$31,$19,$00
+  .db $04,$0f,$00,$6D,$00,$01,$0e,$19
+  .db $00,$84,$00,$55
+
+msg_0025:  ;[\n]And I didn't know anybody there that was splendid and clear-thinking and all
+  .db $3D,$01,$0e,$04,$00,$09,$00,$3E
+  .db $1F,$14,$00,$43,$00,$C8,$00,$31
+  .db $12,$05,$00,$33,$00,$34,$00,$B3
+  .db $00,$32,$00,$03,$0c,$05,$01,$12
+  .db $2F,$B4,$00,$32,$00,$3A
+
+msg_0026:  ;Maybe two guys
+  .db $00,$0d,$01,$19,$02,$05,$00,$A2
+  .db $00,$9B
+
+msg_0027:  ;If[\n]that many
+  .db $00,$F9,$3D,$33,$00,$CD
+
+msg_0028:  ;And they probably came to Pencey that way
+  .db $00,$01,$0e,$04,$00,$31,$19,$00
+  .db $3C,$00,$9C,$00,$39,$00,$36,$00
+  .db $33,$00,$73
+
+msg_0029:  ;[\n]Anyway, it was the Saturday of the football game with Saxon Hall
+  .db $3D,$6E,$1C,$00,$4B,$00,$34,$00
+  .db $31,$00,$13,$6D,$15,$12,$04,$01
+  .db $19,$00,$3F,$00,$31,$00,$74,$00
+  .db $5B,$00,$42,$00,$A7,$00,$CE
+
+msg_002A:  ;The game with Saxon Hall[\n]was supposed to be a very big deal around Pencey
+  .db $00,$59,$00,$5B,$00,$42,$00,$A7
+  .db $00,$CE,$3D,$34,$00,$75,$00,$39
+  .db $00,$02,$05,$00,$01,$00,$CF,$00
+  .db $02,$09,$07,$00,$04,$05,$01,$0c
+  .db $00,$35,$00,$36
+
+msg_002B:  ;It was the last game of the year, and you were[\n]supposed to commit suicide or something if old
+           Pencey didn't win
+  .db $00,$7F,$00,$34,$00,$31,$00,$C3
+  .db $00,$5B,$00,$3F,$00,$31,$00,$19
+  .db $05,$01,$12,$1C,$00,$32,$00,$38
+  .db $00,$44,$3D,$75,$00,$39,$00,$03
+  .db $0f,$0d,$0d,$4B,$00,$13,$15,$09
+  .db $03,$09,$04,$05,$00,$A3,$00,$62
+  .db $00,$BE,$00,$85,$00,$36,$00,$3E
+  .db $1F,$14,$00,$17,$53
+
+msg_002C:  ;I remember around three[\n]o'clock that afternoon I was standing way the hell up on top of Thomsen
+           Hill, right next to this[\n]crazy cannon that was in the Revolutionary War and all
+  .db $00,$09,$00,$B5,$00,$35,$00,$14
+  .db $08,$12,$05,$05,$3D,$0f,$1F,$03
+  .db $0c,$0f,$03,$0b,$00,$33,$00,$A8
+  .db $00,$09,$00,$34,$00,$76,$00,$73
+  .db $00,$31,$00,$94,$00,$D0,$00,$72
+  .db $00,$39,$10,$00,$3F,$00,$D1,$00
+  .db $08,$09,$0c,$0c,$1C,$00,$56,$00
+  .db $96,$00,$39,$00,$41,$3D,$A9,$00
+  .db $C5,$0e,$72,$00,$33,$00,$34,$00
+  .db $53,$00,$31,$00,$12,$05,$16,$0f
+  .db $0c,$15,$14,$09,$72,$01,$12,$19
+  .db $00,$17,$01,$12,$00,$32,$00,$3A
+
+msg_002D:  ;You could see the whole field from[\n]there, and you could see the two teams bashing each other all
+           over the place
+  .db $00,$CA,$00,$63,$00,$64,$00,$31
+  .db $00,$5F,$00,$06,$09,$05,$0c,$04
+  .db $00,$7D,$3D,$31,$12,$05,$1C,$00
+  .db $32,$00,$38,$00,$63,$00,$64,$00
+  .db $31,$00,$A2,$00,$9D,$13,$00,$02
+  .db $C1,$08,$53,$07,$00,$05,$01,$03
+  .db $08,$00,$84,$00,$3A,$00,$7E,$00
+  .db $31,$00,$48
+
+msg_002E:  ;You couldn't see the[\n]grandstand too hot, but you could hear them all yelling, deep and terrific
+           on the Pencey side,[\n]because practically the whole school except me was there, and scrawny and
+           faggy on the Saxon[\n]Hall side, because the visiting team hardly ever brought many people with them
+  .db $00,$CA,$00,$63,$0e,$1F,$14,$00
+  .db $64,$00,$31,$3D,$07,$12,$32,$13
+  .db $14,$32,$00,$39,$0f,$00,$08,$0f
+  .db $14,$1C,$00,$57,$00,$38,$00,$63
+  .db $00,$91,$00,$31,$0d,$00,$3A,$00
+  .db $19,$05,$0c,$0c,$53,$07,$1C,$00
+  .db $04,$05,$05,$10,$00,$32,$00,$B1
+  .db $00,$72,$00,$31,$00,$36,$00,$D2
+  .db $1C,$3D,$4A,$00,$54,$00,$31,$00
+  .db $5F,$00,$55,$00,$05,$18,$03,$05
+  .db $10,$14,$00,$52,$00,$34,$00,$31
+  .db $12,$05,$1C,$00,$32,$00,$13,$03
+  .db $12,$01,$17,$0e,$19,$00,$32,$00
+  .db $06,$01,$07,$07,$19,$00,$72,$00
+  .db $31,$00,$A7,$3D,$CE,$00,$D2,$1C
+  .db $00,$4A,$00,$31,$00,$16,$FB,$4B
+  .db $53,$07,$00,$9D,$00,$8D,$00,$05
+  .db $16,$05,$12,$00,$02,$12,$0f,$15
+  .db $07,$08,$14,$00,$CD,$00,$10,$05
+  .db $0f,$10,$0c,$05,$00,$42,$00,$31
+  .db $0d
+
+msg_002F:  ;[\n]There were never many girls at all at the football games
+  .db $3D,$59,$12,$05,$00,$44,$00,$80
+  .db $00,$CD,$00,$AA,$00,$6D,$00,$3A
+  .db $00,$6D,$00,$31,$00,$74,$00,$5B
+  .db $13
+
+msg_0030:  ;Only seniors were allowed to bring girls[\n]with them
+  .db $00,$D3,$00,$13,$05,$0e,$09,$A3
+  .db $13,$00,$44,$00,$3A,$0f,$99,$04
+  .db $00,$39,$00,$02,$12,$53,$07,$00
+  .db $AA,$3D,$42,$00,$31,$0d
+
+msg_0031:  ;It was a terrible school, no matter how you looked at it
+  .db $00,$7F,$00,$34,$00,$01,$00,$14
+  .db $05,$12,$12,$09,$02,$0c,$05,$00
+  .db $55,$1C,$00,$0e,$0f,$00,$0d,$6D
+  .db $14,$05,$12,$00,$BC,$00,$38,$00
+  .db $0c,$0f,$0f,$0b,$05,$04,$00,$6D
+  .db $00,$4B
+
+msg_0032:  ;I like to be somewhere at least[\n]where you can see a few girls around once in a while, even if
+           they're only scratching their arms or[\n]blowing their noses or even just giggling or something
+  .db $00,$09,$00,$47,$00,$39,$00,$02
+  .db $05,$00,$13,$0f,$52,$A0,$00,$6D
+  .db $00,$AB,$3D,$A0,$00,$38,$00,$C5
+  .db $00,$64,$00,$01,$00,$06,$05,$17
+  .db $00,$AA,$00,$35,$00,$72,$03,$05
+  .db $00,$53,$00,$01,$00,$17,$08,$09
+  .db $0c,$05,$1C,$00,$5A,$00,$BE,$00
+  .db $31,$19,$1F,$12,$05,$00,$72,$0c
+  .db $19,$00,$13,$03,$12,$6D,$03,$08
+  .db $53,$07,$00,$31,$09,$12,$00,$01
+  .db $12,$0d,$13,$00,$A3,$3D,$02,$0c
+  .db $0f,$17,$53,$07,$00,$31,$09,$12
+  .db $00,$0e,$0f,$13,$05,$13,$00,$A3
+  .db $00,$5A,$00,$49,$00,$07,$09,$07
+  .db $07,$0c,$53,$07,$00,$A3,$00,$62
+
+msg_0033:  ;Old Selma Thurmer--she was the[\n]headmaster's daughter--showed up at the games quite often, but she
+           wasn't exactly the type that[\n]drove you mad with desire
+  .db $00,$0f,$0c,$04,$00,$13,$05,$0c
+  .db $0d,$01,$00,$D5,$2F,$2F,$65,$00
+  .db $34,$00,$31,$3D,$AF,$01,$04,$0d
+  .db $C1,$14,$05,$12,$1F,$13,$00,$04
+  .db $01,$15,$07,$08,$14,$05,$12,$2F
+  .db $2F,$13,$BC,$05,$04,$00,$D0,$00
+  .db $6D,$00,$31,$00,$5B,$13,$00,$5E
+  .db $00,$3F,$14,$05,$0e,$1C,$00,$57
+  .db $00,$65,$00,$34,$0e,$1F,$14,$00
+  .db $05,$18,$01,$03,$14,$0c,$19,$00
+  .db $31,$00,$14,$19,$10,$05,$00,$33
+  .db $3D,$04,$12,$0f,$16,$05,$00,$38
+  .db $00,$0d,$01,$04,$00,$42,$00,$04
+  .db $05,$13,$09,$12,$05
+
+msg_0034:  ;She was a pretty nice girl, though
+  .db $00,$77,$00,$34,$00,$01,$00,$46
+  .db $00,$BF,$00,$07,$09,$12,$0c,$1C
+  .db $00,$EC
+
+msg_0035:  ;I sat next to her once in the bus[\n]from Agerstown and we sort of struck up a conversation
+  .db $00,$09,$00,$13,$6D,$00,$96,$00
+  .db $39,$00,$78,$00,$72,$03,$05,$00
+  .db $53,$00,$31,$00,$02,$15,$13,$3D
+  .db $7D,$00,$A6,$00,$32,$00,$99,$00
+  .db $86,$00,$3F,$00,$13,$14,$12,$15
+  .db $03,$0b,$00,$D0,$00,$01,$00,$03
+  .db $72,$16,$05,$12,$13,$6D,$09,$72
+
+msg_0036:  ;I liked her
+  .db $00,$09,$00,$47,$04,$00,$78
+
+msg_0037:  ;She had a big nose and her[\n]nails were all bitten down and bleedy-looking and she had on those
+           damn falsies that point all[\n]over the place, but you felt sort of sorry for her
+  .db $00,$77,$00,$71,$00,$01,$00,$02
+  .db $09,$07,$00,$0e,$0f,$13,$05,$00
+  .db $32,$00,$78,$3D,$0e,$01,$09,$0c
+  .db $13,$00,$44,$00,$3A,$00,$02,$4B
+  .db $14,$05,$0e,$00,$58,$00,$32,$00
+  .db $02,$0c,$05,$05,$04,$19,$2F,$D6
+  .db $00,$32,$00,$65,$00,$71,$00,$72
+  .db $00,$FE,$00,$97,$00,$06,$01,$0c
+  .db $13,$09,$05,$13,$00,$33,$00,$10
+  .db $0f,$53,$14,$00,$3A,$3D,$7E,$00
+  .db $31,$00,$48,$1C,$00,$57,$00,$38
+  .db $00,$9E,$00,$86,$00,$3F,$00,$13
+  .db $A3,$12,$19,$00,$61,$00,$78
+
+msg_0038:  ;What I liked about her, she didn't give you a lot[\n]of horse manure about what a great guy her
+           father was
+  .db $00,$17,$08,$6D,$00,$09,$00,$47
+  .db $04,$00,$3B,$00,$78,$1C,$00,$65
+  .db $00,$3E,$1F,$14,$00,$07,$09,$16
+  .db $05,$00,$38,$00,$01,$00,$0c,$0f
+  .db $14,$3D,$3F,$00,$82,$00,$0d,$01
+  .db $0e,$15,$12,$05,$00,$3B,$00,$68
+  .db $00,$01,$00,$07,$12,$05,$6D,$00
+  .db $07,$15,$19,$00,$78,$00,$E6,$00
+  .db $34
+
+msg_0039:  ;She probably knew what a phony slob he[\n]was
+  .db $00,$77,$00,$3C,$00,$D7,$00,$68
+  .db $00,$01,$00,$10,$08,$72,$19,$00
+  .db $13,$0c,$0f,$02,$00,$AF,$3D,$34
+
+msg_003A:  ;[\n]The reason I was standing way up on Thomsen Hill, instead of down at the game, was because
+           I'd[\n]just got back from New York with the fencing team
+  .db $3D,$59,$00,$ED,$00,$09,$00,$34
+  .db $00,$76,$00,$73,$00,$D0,$00,$72
+  .db $00,$D1,$00,$08,$09,$0c,$0c,$1C
+  .db $00,$53,$13,$14,$05,$01,$04,$00
+  .db $3F,$00,$58,$00,$6D,$00,$31,$00
+  .db $5B,$1C,$00,$34,$00,$4A,$00,$09
+  .db $1F,$04,$3D,$49,$00,$4C,$00,$4F
+  .db $00,$7D,$00,$0e,$05,$17,$00,$19
+  .db $A3,$0b,$00,$42,$00,$31,$00,$87
+  .db $00,$9D
+
+msg_003B:  ;I was the goddam manager of the fencing[\n]team
+  .db $00,$09,$00,$34,$00,$31,$00,$6B
+  .db $00,$0d,$01,$0e,$01,$07,$05,$12
+  .db $00,$3F,$00,$31,$00,$87,$3D,$9D
+
+msg_003C:  ;Very big deal
+  .db $00,$16,$05,$12,$19,$00,$02,$09
+  .db $07,$00,$04,$05,$01,$0c
+
+msg_003D:  ;We'd gone in to New York that morning for this fencing meet with[\n]McBurney School
+  .db $00,$17,$05,$1F,$04,$00,$07,$72
+  .db $05,$00,$53,$00,$39,$00,$0e,$05
+  .db $17,$00,$19,$A3,$0b,$00,$33,$00
+  .db $0d,$A3,$0e,$53,$07,$00,$61,$00
+  .db $41,$00,$87,$00,$52,$05,$14,$00
+  .db $42,$3D,$0d,$03,$02,$15,$12,$0e
+  .db $05,$19,$00,$13,$03,$08,$0f,$0f
+  .db $0c
+
+msg_003E:  ;Only, we didn't have the meet
+  .db $00,$D3,$1C,$00,$99,$00,$3E,$1F
+  .db $14,$00,$4E,$00,$31,$00,$52,$05
+  .db $14
+
+msg_003F:  ;I left all the foils and equipment and stuff on[\n]the goddam subway
+  .db $00,$09,$00,$C9,$00,$3A,$00,$31
+  .db $00,$06,$0f,$09,$0c,$13,$00,$32
+  .db $00,$05,$11,$15,$09,$10,$52,$0e
+  .db $14,$00,$32,$00,$5D,$00,$72,$3D
+  .db $31,$00,$6B,$00,$13,$15,$02,$73
+
+msg_0040:  ;It wasn't all my fault
+  .db $00,$7F,$00,$34,$0e,$1F,$14,$00
+  .db $3A,$00,$50,$00,$06,$01,$15,$0c
+  .db $14
+
+msg_0041:  ;I had to keep getting up to look at this map, so we'd[\n]know where to get off
+  .db $00,$09,$00,$71,$00,$39,$00,$0b
+  .db $05,$05,$10,$00,$5C,$00,$D0,$00
+  .db $39,$00,$0c,$0f,$0f,$0b,$00,$6D
+  .db $00,$41,$00,$0d,$01,$10,$1C,$00
+  .db $13,$0f,$00,$99,$1F,$04,$3D,$43
+  .db $00,$A0,$00,$39,$00,$AD,$00,$3F
+  .db $06
+
+msg_0042:  ;So we got back to Pencey around two-thirty instead of around dinnertime
+  .db $00,$13,$0f,$00,$99,$00,$4C,$00
+  .db $4F,$00,$39,$00,$36,$00,$35,$00
+  .db $A2,$2F,$14,$08,$09,$12,$14,$19
+  .db $00,$53,$13,$14,$05,$01,$04,$00
+  .db $3F,$00,$35,$00,$F2,$98
+
+msg_0043:  ;[\n]The whole team ostracized me the whole way back on the train
+  .db $3D,$59,$00,$5F,$00,$9D,$00,$0f
+  .db $13,$14,$12,$01,$03,$09,$1a,$05
+  .db $04,$00,$52,$00,$31,$00,$5F,$00
+  .db $73,$00,$4F,$00,$72,$00,$31,$00
+  .db $14,$12,$01,$53
+
+msg_0044:  ;It was pretty funny, in a way
+  .db $00,$7F,$00,$34,$00,$46,$00,$06
+  .db $15,$0e,$0e,$19,$1C,$00,$53,$00
+  .db $01,$00,$73
+
+msg_0045:  ;[\n]The other reason I wasn't down at the game was because I was on my way to say good-by to
+           old[\n]Spencer, my history teacher
+  .db $3D,$59,$00,$84,$00,$ED,$00,$09
+  .db $00,$34,$0e,$1F,$14,$00,$58,$00
+  .db $6D,$00,$31,$00,$5B,$00,$34,$00
+  .db $4A,$00,$09,$00,$34,$00,$72,$00
+  .db $50,$00,$73,$00,$39,$00,$13,$01
+  .db $19,$00,$88,$2F,$02,$19,$00,$39
+  .db $00,$85,$3D,$37,$1C,$00,$50,$00
+  .db $A5,$39,$12,$19,$00,$D9
+
+msg_0046:  ;He had the grippe, and I figured I probably wouldn't see him again[\n]till Christmas vacation
+           started
+  .db $00,$7A,$00,$71,$00,$31,$00,$EE
+  .db $1C,$00,$32,$00,$09,$00,$06,$09
+  .db $07,$15,$12,$05,$04,$00,$09,$00
+  .db $3C,$00,$EA,$1F,$14,$00,$64,$00
+  .db $FF,$00,$01,$07,$01,$53,$3D,$14
+  .db $09,$0c,$0c,$00,$60,$00,$B6,$00
+  .db $DA
+
+msg_0047:  ;He wrote me this note saying he wanted to see me before I went[\n]home
+  .db $00,$7A,$00,$17,$12,$0f,$14,$05
+  .db $00,$52,$00,$41,$00,$C0,$05,$00
+  .db $E7,$00,$AF,$00,$67,$05,$04,$00
+  .db $39,$00,$64,$00,$52,$00,$51,$00
+  .db $09,$00,$99,$0e,$14,$3D,$95
+
+msg_0048:  ;He knew I wasn't coming back to Pencey
+  .db $00,$7A,$00,$D7,$00,$09,$00,$34
+  .db $0e,$1F,$14,$00,$03,$0f,$0d,$53
+  .db $07,$00,$4F,$00,$39,$00,$36
+
+msg_0049:  ;[\n]I forgot to tell you about that
+  .db $3D,$09,$00,$61,$4C,$00,$39,$00
+  .db $C2,$00,$38,$00,$3B,$00,$33
+
+msg_004A:  ;They kicked me out
+  .db $00,$40,$00,$EF,$00,$52,$00,$4D
+
+msg_004B:  ;I wasn't supposed to come back after[\n]Christmas vacation on account of I was flunking four
+           subjects and not applying myself and all
+  .db $00,$09,$00,$34,$0e,$1F,$14,$00
+  .db $75,$00,$39,$00,$03,$0f,$52,$00
+  .db $4F,$00,$01,$06,$14,$05,$12,$3D
+  .db $60,$00,$B6,$00,$72,$00,$01,$03
+  .db $03,$0f,$15,$0e,$14,$00,$3F,$00
+  .db $09,$00,$34,$00,$06,$0c,$15,$0e
+  .db $0b,$53,$07,$00,$06,$0f,$15,$12
+  .db $00,$13,$15,$02,$0a,$05,$03,$14
+  .db $13,$00,$32,$00,$C0,$00,$B7,$00
+  .db $50,$13,$05,$0c,$06,$00,$32,$00
+  .db $3A
+
+msg_004C:  ;[\n]They gave me frequent warning to start applying myself--especially around midterms, when
+           my[\n]parents came up for a conference with old Thurmer--but I didn't do it
+  .db $3D,$40,$00,$07,$01,$16,$05,$00
+  .db $52,$00,$06,$12,$05,$11,$15,$05
+  .db $0e,$14,$00,$17,$01,$12,$0e,$53
+  .db $07,$00,$39,$00,$13,$14,$01,$12
+  .db $14,$00,$B7,$00,$50,$13,$05,$0c
+  .db $06,$2F,$2F,$45,$00,$35,$00,$0d
+  .db $09,$04,$14,$05,$12,$0d,$13,$1C
+  .db $00,$6C,$00,$50,$3D,$7C,$00,$9C
+  .db $00,$D0,$00,$61,$00,$01,$00,$03
+  .db $72,$06,$05,$12,$05,$0e,$03,$05
+  .db $00,$42,$00,$85,$00,$D5,$2F,$2F
+  .db $57,$00,$09,$00,$3E,$1F,$14,$00
+  .db $04,$0f,$00,$4B
+
+msg_004D:  ;So I got the ax
+  .db $00,$13,$0f,$00,$09,$00,$4C,$00
+  .db $31,$00,$01,$18
+
+msg_004E:  ;They give[\n]guys the ax quite frequently at Pencey
+  .db $00,$40,$00,$07,$09,$16,$05,$3D
+  .db $9B,$00,$31,$00,$01,$18,$00,$5E
+  .db $00,$9F,$00,$6D,$00,$36
+
+msg_004F:  ;It has a very good academic rating, Pencey
+  .db $00,$7F,$00,$08,$C1,$00,$01,$00
+  .db $CF,$00,$88,$00,$79,$00,$12,$6D
+  .db $53,$07,$1C,$00,$36
+
+msg_0050:  ;It really does
+  .db $00,$7F,$00,$66,$00,$04,$0f,$05
+  .db $13
+
+msg_0051:  ;[\n]Anyway, it was December and all, and it was cold as a witch's teat, especially on top of
+           that[\n]stupid hill
+  .db $3D,$6E,$1C,$00,$4B,$00,$34,$00
+  .db $04,$05,$03,$05,$0d,$02,$05,$12
+  .db $00,$32,$00,$3A,$1C,$00,$32,$00
+  .db $4B,$00,$34,$00,$03,$85,$00,$C1
+  .db $00,$01,$00,$17,$4B,$03,$08,$1F
+  .db $13,$00,$14,$05,$6D,$1C,$00,$45
+  .db $00,$72,$00,$39,$10,$00,$3F,$00
+  .db $33,$3D,$13,$14,$D0,$09,$04,$00
+  .db $08,$09,$0c,$0c
+
+msg_0052:  ;I only had on my reversible and no gloves or anything
+  .db $00,$09,$00,$72,$0c,$19,$00,$71
+  .db $00,$72,$00,$50,$00,$12,$05,$16
+  .db $05,$12,$13,$09,$02,$0c,$05,$00
+  .db $32,$00,$0e,$0f,$00,$F1,$00,$A3
+  .db $00,$3D
+
+msg_0053:  ;The week before that,[\n]somebody'd stolen my camel's-hair coat right out of my room, with my fur-
+           lined gloves right in[\n]the pocket and all
+  .db $00,$59,$00,$99,$05,$0b,$00,$51
+  .db $00,$33,$1C,$3D,$B8,$1F,$04,$00
+  .db $13,$39,$0c,$05,$0e,$00,$50,$00
+  .db $9C,$0c,$1F,$13,$2F,$08,$01,$09
+  .db $12,$00,$DB,$00,$56,$00,$4D,$00
+  .db $3F,$00,$50,$00,$12,$0f,$0f,$0d
+  .db $1C,$00,$42,$00,$50,$00,$06,$15
+  .db $12,$2F,$0c,$53,$05,$04,$00,$F1
+  .db $00,$56,$00,$53,$3D,$31,$00,$10
+  .db $0f,$03,$0b,$05,$14,$00,$32,$00
+  .db $3A
+
+msg_0054:  ;Pencey was full of crooks
+  .db $00,$36,$00,$34,$00,$06,$15,$0c
+  .db $0c,$00,$3F,$00,$8E
+
+msg_0055:  ;Quite a few guys came from these very wealthy [\n]families, but it was full of crooks anyway
+  .db $00,$11,$15,$4B,$05,$00,$01,$00
+  .db $06,$05,$17,$00,$9B,$00,$9C,$00
+  .db $7D,$00,$31,$13,$05,$00,$CF,$00
+  .db $99,$01,$0c,$14,$08,$19,$00,$3D
+  .db $06,$01,$0d,$09,$0c,$09,$05,$13
+  .db $1C,$00,$57,$00,$4B,$00,$34,$00
+  .db $06,$15,$0c,$0c,$00,$3F,$00,$8E
+  .db $00,$8B
+
+msg_0056:  ;The more expensive a school is, the more crooks it[\n]has--I'm not kidding
+  .db $00,$59,$00,$9A,$00,$05,$18,$10
+  .db $05,$0e,$13,$09,$16,$05,$00,$01
+  .db $00,$55,$00,$FB,$1C,$00,$31,$00
+  .db $9A,$00,$8E,$00,$4B,$3D,$08,$C1
+  .db $2F,$2F,$09,$1F,$0d,$00,$C0,$00
+  .db $0b,$09,$04,$04,$53,$07
+
+msg_0057:  ;Anyway, I kept standing next to that crazy cannon, looking down at the[\n]game and freezing my ass
+           off
+  .db $00,$6E,$1C,$00,$09,$00,$DC,$00
+  .db $76,$00,$96,$00,$39,$00,$33,$00
+  .db $A9,$00,$C5,$0e,$72,$1C,$00,$D6
+  .db $00,$58,$00,$6D,$00,$31,$3D,$5B
+  .db $00,$32,$00,$06,$12,$05,$05,$1a
+  .db $53,$07,$00,$50,$00,$C1,$13,$00
+  .db $3F,$06
+
+msg_0058:  ;Only, I wasn't watching the game too much
+  .db $00,$D3,$1C,$00,$09,$00,$34,$0e
+  .db $1F,$14,$00,$17,$6D,$03,$08,$53
+  .db $07,$00,$31,$00,$5B,$00,$39,$0f
+  .db $00,$DD
+
+msg_0059:  ;What I was really[\n]hanging around for, I was trying to feel some kind of a good-by
+  .db $00,$17,$08,$6D,$00,$09,$00,$34
+  .db $00,$66,$3D,$08,$01,$0e,$07,$53
+  .db $07,$00,$35,$00,$61,$1C,$00,$09
+  .db $00,$34,$00,$14,$12,$19,$53,$07
+  .db $00,$39,$00,$BD,$00,$13,$0f,$52
+  .db $00,$92,$00,$3F,$00,$01,$00,$88
+  .db $2F,$02,$19
+
+msg_005A:  ;I mean I've left schools and[\n]places I didn't even know I was leaving them
+  .db $00,$09,$00,$52,$01,$0e,$00,$09
+  .db $1F,$16,$05,$00,$C9,$00,$55,$13
+  .db $00,$32,$3D,$48,$13,$00,$09,$00
+  .db $3E,$1F,$14,$00,$5A,$00,$43,$00
+  .db $09,$00,$34,$00,$DE,$00,$31,$0d
+
+msg_005B:  ;I hate that
+  .db $00,$09,$00,$08,$6D,$05,$00,$33
+
+msg_005C:  ;I don't care if it's a sad good-by or a bad[\n]goodby, but when I leave a place I like to know I'm
+           leaving it
+  .db $00,$09,$00,$8A,$1F,$14,$00,$03
+  .db $01,$12,$05,$00,$BE,$00,$4B,$1F
+  .db $13,$00,$01,$00,$13,$01,$04,$00
+  .db $88,$2F,$02,$19,$00,$A3,$00,$01
+  .db $00,$02,$01,$04,$3D,$88,$02,$19
+  .db $1C,$00,$57,$00,$6C,$00,$09,$00
+  .db $0c,$05,$01,$16,$05,$00,$01,$00
+  .db $48,$00,$09,$00,$47,$00,$39,$00
+  .db $43,$00,$09,$1F,$0d,$00,$DE,$00
+  .db $4B
+
+msg_005D:  ;If you don't, you feel even worse
+  .db $00,$F9,$00,$38,$00,$8A,$1F,$14
+  .db $1C,$00,$38,$00,$BD,$00,$5A,$00
+  .db $17,$A3,$13,$05
+
+msg_005E:  ;[\n]I was lucky
+  .db $3D,$09,$00,$34,$00,$0c,$15,$03
+  .db $0b,$19
+
+msg_005F:  ;All of a sudden I thought of something that helped make me know I was getting the[\n]hell out
+  .db $00,$01,$0c,$0c,$00,$3F,$00,$01
+  .db $00,$13,$15,$04,$04,$05,$0e,$00
+  .db $09,$00,$EC,$14,$00,$3F,$00,$62
+  .db $00,$33,$00,$AF,$0c,$10,$05,$04
+  .db $00,$0d,$01,$0b,$05,$00,$52,$00
+  .db $43,$00,$09,$00,$34,$00,$5C,$00
+  .db $31,$3D,$94,$00,$4D
+
+msg_0060:  ;I suddenly remembered this time, in around October, that I and Robert Tichener and Paul[\n]Campbell
+           were chucking a football around, in front of the academic building
+  .db $00,$09,$00,$13,$15,$04,$04,$05
+  .db $0e,$0c,$19,$00,$B5,$05,$04,$00
+  .db $41,$00,$98,$1C,$00,$53,$00,$35
+  .db $00,$0f,$03,$39,$02,$05,$12,$1C
+  .db $00,$33,$00,$09,$00,$32,$00,$12
+  .db $0f,$02,$05,$12,$14,$00,$B9,$00
+  .db $32,$00,$10,$01,$15,$0c,$3D,$03
+  .db $01,$0d,$10,$02,$05,$0c,$0c,$00
+  .db $44,$00,$BA,$00,$01,$00,$74,$00
+  .db $35,$1C,$00,$53,$00,$06,$12,$72
+  .db $14,$00,$3F,$00,$31,$00,$79,$00
+  .db $BB
+
+msg_0061:  ;They were nice[\n]guys, especially Tichener
+  .db $00,$40,$00,$44,$00,$BF,$3D,$9B
+  .db $1C,$00,$45,$00,$B9
+
+msg_0062:  ;It was just before dinner and it was getting pretty dark out, but we kept[\n]chucking the ball
+           around anyway
+  .db $00,$7F,$00,$34,$00,$49,$00,$51
+  .db $00,$F2,$00,$32,$00,$4B,$00,$34
+  .db $00,$5C,$00,$46,$00,$04,$01,$12
+  .db $0b,$00,$4D,$1C,$00,$57,$00,$99
+  .db $00,$DC,$3D,$BA,$00,$31,$00,$02
+  .db $3A,$00,$35,$00,$8B
+
+msg_0063:  ;It kept getting darker and darker, and we could hardly see the[\n]ball any more, but we didn't want
+           to stop doing what we were doing
+  .db $00,$7F,$00,$DC,$00,$5C,$00,$F3
+  .db $00,$32,$00,$F3,$1C,$00,$32,$00
+  .db $99,$00,$63,$00,$8D,$00,$64,$00
+  .db $31,$3D,$02,$3A,$00,$01,$0e,$19
+  .db $00,$9A,$1C,$00,$57,$00,$99,$00
+  .db $3E,$1F,$14,$00,$67,$00,$39,$00
+  .db $13,$39,$10,$00,$04,$0f,$53,$07
+  .db $00,$68,$00,$99,$00,$44,$00,$04
+  .db $0f,$53,$07
+
+msg_0064:  ;Finally we had to
+  .db $00,$DF,$00,$99,$00,$71,$00,$39
+
+msg_0065:  ;This[\n]teacher that taught biology, Mr
+  .db $00,$14,$A5,$3D,$D9,$00,$33,$00
+  .db $14,$01,$15,$07,$08,$14,$00,$02
+  .db $09,$0f,$0c,$0f,$07,$19,$1C,$00
+  .db $0d,$12
+
+msg_0066:  ;Zambesi, stuck his head out of this window in the academic[\n]building and told us to go back to the
+           dorm and get ready for dinner
+  .db $00,$1a,$01,$0d,$02,$05,$13,$09
+  .db $1C,$00,$13,$14,$15,$03,$0b,$00
+  .db $A5,$00,$AF,$01,$04,$00,$4D,$00
+  .db $3F,$00,$41,$00,$17,$53,$04,$0f
+  .db $17,$00,$53,$00,$31,$00,$79,$3D
+  .db $BB,$00,$32,$00,$39,$0c,$04,$00
+  .db $15,$13,$00,$39,$00,$07,$0f,$00
+  .db $4F,$00,$39,$00,$31,$00,$04,$A3
+  .db $0d,$00,$32,$00,$AD,$00,$12,$05
+  .db $01,$04,$19,$00,$61,$00,$F2
+
+msg_0067:  ;If I get a chance to[\n]remember that kind of stuff, I can get a good-by when I need one--at least,
+           most of the time I can
+  .db $00,$F9,$00,$09,$00,$AD,$00,$01
+  .db $00,$03,$08,$01,$0e,$03,$05,$00
+  .db $39,$3D,$B5,$00,$33,$00,$92,$00
+  .db $3F,$00,$5D,$1C,$00,$09,$00,$C5
+  .db $00,$AD,$00,$01,$00,$88,$2F,$02
+  .db $19,$00,$6C,$00,$09,$00,$0e,$05
+  .db $05,$04,$00,$72,$05,$2F,$2F,$6D
+  .db $00,$AB,$1C,$00,$0d,$0f,$13,$14
+  .db $00,$3F,$00,$31,$00,$98,$00,$09
+  .db $00,$C5
+
+msg_0068:  ;[\n]As soon as I got it, I turned around and started running down the other side of the hill, toward
+           old[\n]Spencer's house
+  .db $3D,$01,$13,$00,$13,$0f,$72,$00
+  .db $C1,$00,$09,$00,$4C,$00,$4B,$1C
+  .db $00,$09,$00,$14,$15,$12,$0e,$05
+  .db $04,$00,$35,$00,$32,$00,$DA,$00
+  .db $E0,$00,$58,$00,$31,$00,$84,$00
+  .db $D2,$00,$3F,$00,$31,$00,$08,$09
+  .db $0c,$0c,$1C,$00,$39,$17,$01,$12
+  .db $04,$00,$85,$3D,$37,$1F,$13,$00
+  .db $AE
+
+msg_0069:  ;He didn't live on the campus
+  .db $00,$7A,$00,$3E,$1F,$14,$00,$0c
+  .db $09,$16,$05,$00,$72,$00,$31,$00
+  .db $03,$01,$0d,$10,$15,$13
+
+msg_006A:  ;He lived on Anthony Wayne Avenue
+  .db $00,$7A,$00,$0c,$09,$16,$05,$04
+  .db $00,$72,$00,$01,$0e,$14,$08,$72
+  .db $19,$00,$17,$01,$19,$0e,$05,$00
+  .db $01,$16,$05,$0e,$15,$05
+
+msg_006B:  ;[\n]I ran all the way to the main gate, and then I waited a second till I got my breath
+  .db $3D,$09,$00,$12,$01,$0e,$00,$3A
+  .db $00,$31,$00,$73,$00,$39,$00,$31
+  .db $00,$0d,$01,$53,$00,$07,$6D,$05
+  .db $1C,$00,$32,$00,$31,$0e,$00,$09
+  .db $00,$17,$01,$4B,$05,$04,$00,$01
+  .db $00,$E4,$00,$14,$09,$0c,$0c,$00
+  .db $09,$00,$4C,$00,$50,$00,$F4
+
+msg_006C:  ;I have no wind,[\n]if you want to know the truth
+  .db $00,$09,$00,$4E,$00,$0e,$0f,$00
+  .db $17,$53,$04,$1C,$3D,$BE,$00,$38
+  .db $00,$67,$00,$39,$00,$43,$00,$31
+  .db $00,$FC
+
+msg_006D:  ;I'm quite a heavy smoker, for one thing--that is, I used to be
+  .db $00,$09,$1F,$0d,$00,$5E,$00,$01
+  .db $00,$AF,$01,$16,$19,$00,$13,$0d
+  .db $0f,$0b,$05,$12,$1C,$00,$61,$00
+  .db $72,$05,$00,$7B,$2F,$2F,$33,$00
+  .db $FB,$1C,$00,$09,$00,$15,$13,$05
+  .db $04,$00,$39,$00,$02,$05
+
+msg_006E:  ;They[\n]made me cut it out
+  .db $00,$40,$3D,$0d,$01,$04,$05,$00
+  .db $52,$00,$03,$15,$14,$00,$4B,$00
+  .db $4D
+
+msg_006F:  ;Another thing, I grew six and a half inches last year
+  .db $00,$01,$C0,$78,$00,$7B,$1C,$00
+  .db $09,$00,$07,$12,$05,$17,$00,$13
+  .db $09,$18,$00,$32,$00,$01,$00,$08
+  .db $01,$0c,$06,$00,$53,$03,$AF,$13
+  .db $00,$C3,$00,$19,$05,$01,$12
+
+msg_0070:  ;That's also how I[\n]practically got t
+  .db $00,$14,$08,$6D,$1F,$13,$00,$01
+  .db $0c,$13,$0f,$00,$BC,$00,$09,$3D
+  .db $54,$00,$4C,$00,$14
+
+msg_0071:  ;b
+  .db $02
+
+msg_0072:  ;and came out here for all these goddam checkups and stuff
+  .db $00,$32,$00,$9C,$00,$4D,$00,$78
+  .db $05,$00,$61,$00,$3A,$00,$31,$13
+  .db $05,$00,$6B,$00,$03,$AF,$03,$0b
+  .db $D0,$13,$00,$32,$00,$5D
+
+msg_0073:  ;I'm pretty healthy,[\n]though
+  .db $00,$09,$1F,$0d,$00,$46,$00,$AF
+  .db $01,$0c,$14,$08,$19,$1C,$3D,$EC
+
+msg_0074:  ;[\n]Anyway, as soon as I got my breath back I ran across Route 204
+  .db $3D,$6E,$1C,$00,$C1,$00,$13,$0f
+  .db $72,$00,$C1,$00,$09,$00,$4C,$00
+  .db $50,$00,$F4,$00,$4F,$00,$09,$00
+  .db $12,$01,$0e,$00,$F5,$00,$12,$4D
+  .db $05,$00,$22,$20,$24
+
+msg_0075:  ;It was icy as hell and I damn[\n]near fell down
+  .db $00,$7F,$00,$34,$00,$09,$03,$19
+  .db $00,$C1,$00,$94,$00,$32,$00,$09
+  .db $00,$97,$3D,$C6,$00,$06,$05,$0c
+  .db $0c,$00,$58
+
+msg_0076:  ;I don't even know what I was running for--I guess I just felt like it
+  .db $00,$09,$00,$8A,$1F,$14,$00,$5A
+  .db $00,$43,$00,$68,$00,$09,$00,$34
+  .db $00,$E0,$00,$61,$2F,$2F,$09,$00
+  .db $07,$15,$05,$13,$13,$00,$09,$00
+  .db $49,$00,$9E,$00,$47,$00,$4B
+
+msg_0077:  ;After I got[\n]across the road, I felt like I was sort of disappearing
+  .db $00,$01,$06,$14,$05,$12,$00,$09
+  .db $00,$4C,$3D,$F5,$00,$31,$00,$12
+  .db $0f,$01,$04,$1C,$00,$09,$00,$9E
+  .db $00,$47,$00,$09,$00,$34,$00,$86
+  .db $00,$3F,$00,$89
+
+msg_0078:  ;It was that kind of a crazy afternoon,[\n]terrifically cold, and no sun out or anything, and you
+           felt like you were disappearing every time[\n]you crossed a road
+  .db $00,$7F,$00,$34,$00,$33,$00,$92
+  .db $00,$3F,$00,$01,$00,$A9,$00,$A8
+  .db $1C,$3D,$B1,$3A,$19,$00,$03,$85
+  .db $1C,$00,$32,$00,$0e,$0f,$00,$13
+  .db $15,$0e,$00,$4D,$00,$A3,$00,$3D
+  .db $1C,$00,$32,$00,$38,$00,$9E,$00
+  .db $47,$00,$38,$00,$44,$00,$89,$00
+  .db $FD,$00,$98,$3D,$38,$00,$03,$12
+  .db $0f,$13,$13,$05,$04,$00,$01,$00
+  .db $12,$0f,$01,$04
+
+msg_0079:  ;[\n]Boy, I rang that doorbell fast when I got to old Spencer's house
+  .db $3D,$02,$0f,$19,$1C,$00,$09,$00
+  .db $12,$01,$0e,$07,$00,$33,$00,$E1
+  .db $02,$05,$0c,$0c,$00,$06,$C1,$14
+  .db $00,$6C,$00,$09,$00,$4C,$00,$39
+  .db $00,$85,$00,$37,$1F,$13,$00,$AE
+
+msg_007A:  ;I was really frozen
+  .db $00,$09,$00,$34,$00,$66,$00,$F6
+
+msg_007B:  ;My ears were[\n]hurting and I could hardly move my fingers at all
+  .db $00,$0d,$19,$00,$05,$01,$12,$13
+  .db $00,$44,$3D,$08,$15,$12,$14,$53
+  .db $07,$00,$32,$00,$09,$00,$63,$00
+  .db $8D,$00,$0d,$0f,$16,$05,$00,$50
+  .db $00,$06,$53,$07,$05,$12,$13,$00
+  .db $6D,$00,$3A
+
+msg_007C:  ;"C'mon, c'mon," I said right out loud, almost,[\n]"somebody open the door
+  .db $00,$2A,$03,$1F,$0d,$72,$1C,$00
+  .db $03,$1F,$0d,$72,$1C,$2A,$00,$09
+  .db $00,$70,$00,$56,$00,$4D,$00,$0c
+  .db $0f,$15,$04,$1C,$00,$01,$0c,$0d
+  .db $0f,$13,$14,$1C,$3D,$2A,$B8,$00
+  .db $0f,$10,$05,$0e,$00,$31,$00,$E1
+
+msg_007D:  ;" Finally old Mrs
+  .db $2A,$00,$DF,$00,$85,$00,$E2
+
+msg_007E:  ;Spencer opened
+  .db $00,$37,$00,$F7
+
+msg_007F:  ;it
+  .db $00,$4B
+
+msg_0080:  ;They didn't have a maid or[\n]anything, and they always opened the door themselves
+  .db $00,$40,$00,$3E,$1F,$14,$00,$4E
+  .db $00,$01,$00,$0d,$01,$09,$04,$00
+  .db $A3,$3D,$3D,$1C,$00,$32,$00,$31
+  .db $19,$00,$8C,$00,$F7,$00,$31,$00
+  .db $E1,$00,$31,$0d,$13,$05,$0c,$16
+  .db $05,$13
+
+msg_0081:  ;They didn't have too much dough
+  .db $00,$40,$00,$3E,$1F,$14,$00,$4E
+  .db $00,$39,$0f,$00,$DD,$00,$100
+
+msg_0082:  ;[\n]"Holden!" Mrs
+  .db $3D,$2A,$8F,$1D,$2A,$00,$E2
+
+msg_0083:  ;Spencer said
+  .db $00,$37,$00,$70
+
+msg_0084:  ;"How lovely to see you! Come in, dear! Are you frozen to death?" I[\n]think she was glad to see me
+  .db $00,$2A,$90,$00,$0c,$0f,$16,$05
+  .db $0c,$19,$00,$39,$00,$64,$00,$38
+  .db $1D,$00,$03,$0f,$52,$00,$53,$1C
+  .db $00,$E3,$1D,$00,$01,$12,$05,$00
+  .db $38,$00,$F6,$00,$39,$00,$04,$05
+  .db $6D,$08,$1E,$2A,$00,$09,$3D,$14
+  .db $08,$53,$0b,$00,$65,$00,$34,$00
+  .db $07,$0c,$01,$04,$00,$39,$00,$64
+  .db $00,$52
+
+msg_0085:  ;She liked me
+  .db $00,$77,$00,$47,$04,$00,$52
+
+msg_0086:  ;At least, I think she did
+  .db $00,$01,$14,$00,$AB,$1C,$00,$09
+  .db $00,$14,$08,$53,$0b,$00,$65,$00
+  .db $04,$09,$04
+
+msg_0087:  ;[\n]Boy, did I get in that house fast
+  .db $3D,$02,$0f,$19,$1C,$00,$04,$09
+  .db $04,$00,$09,$00,$AD,$00,$53,$00
+  .db $33,$00,$AE,$00,$06,$C1,$14
+
+msg_0088:  ;"How are you, Mrs
+  .db $00,$2A,$90,$00,$01,$12,$05,$00
+  .db $38,$1C,$00,$E2
+
+msg_0089:  ;Spencer?" I said
+  .db $00,$37,$1E,$2A,$00,$09,$00,$70
+
+msg_008A:  ;"How's Mr
+  .db $00,$2A,$90,$1F,$13,$00,$0d,$12
+
+msg_008B:  ;Spencer?"[\n]"Let me take your coat, dear," she said
+  .db $00,$37,$1E,$2A,$3D,$2A,$0c,$05
+  .db $14,$00,$52,$00,$14,$01,$0b,$05
+  .db $00,$38,$12,$00,$DB,$1C,$00,$E3
+  .db $1C,$2A,$00,$65,$00,$70
+
+msg_008C:  ;She didn't hear me ask her how Mr
+  .db $00,$77,$00,$3E,$1F,$14,$00,$91
+  .db $00,$52,$00,$C1,$0b,$00,$78,$00
+  .db $BC,$00,$0d,$12
+
+msg_008D:  ;Spencer was
+  .db $00,$37,$00,$34
+
+msg_008E:  ;She was[\n]sort of deaf
+  .db $00,$77,$00,$34,$3D,$86,$00,$3F
+  .db $00,$04,$05,$01,$06
+
+msg_008F:  ;[\n]She hung up my coat in the hall closet, and I sort of brushed my hair back with my hand
+  .db $3D,$77,$00,$08,$15,$0e,$07,$00
+  .db $D0,$00,$50,$00,$DB,$00,$53,$00
+  .db $31,$00,$08,$3A,$00,$F8,$1C,$00
+  .db $32,$00,$09,$00,$86,$00,$3F,$00
+  .db $02,$12,$15,$65,$04,$00,$50,$00
+  .db $08,$01,$09,$12,$00,$4F,$00,$42
+  .db $00,$50,$00,$08,$32
+
+msg_0090:  ;I wear a[\n]crew cut quite frequently and I never have to comb it much
+  .db $00,$09,$00,$99,$01,$12,$00,$01
+  .db $3D,$03,$12,$05,$17,$00,$03,$15
+  .db $14,$00,$5E,$00,$9F,$00,$32,$00
+  .db $09,$00,$80,$00,$4E,$00,$39,$00
+  .db $03,$0f,$0d,$02,$00,$4B,$00,$DD
+
+msg_0091:  ;"How've you been, Mrs
+  .db $00,$2A,$90,$1F,$16,$05,$00,$38
+  .db $00,$83,$1C,$00,$E2
+
+msg_0092:  ;Spencer?" I[\n]said again, only louder, so she'd hear me
+  .db $00,$37,$1E,$2A,$00,$09,$3D,$70
+  .db $00,$01,$07,$01,$53,$1C,$00,$72
+  .db $0c,$19,$00,$0c,$0f,$15,$04,$05
+  .db $12,$1C,$00,$13,$0f,$00,$65,$1F
+  .db $04,$00,$91,$00,$52
+
+msg_0093:  ;[\n]"I've been just fine, Holden
+  .db $3D,$2A,$09,$1F,$16,$05,$00,$83
+  .db $00,$49,$00,$06,$53,$05,$1C,$00
+  .db $8F
+
+msg_0094:  ;" She closed the closet door
+  .db $2A,$00,$77,$00,$03,$0c,$0f,$13
+  .db $05,$04,$00,$31,$00,$F8,$00,$E1
+
+msg_0095:  ;"How have you been?" The way she[\n]asked me, I knew right away old Spencer'd told her I'd been
+           kicked out
+  .db $00,$2A,$90,$00,$4E,$00,$38,$00
+  .db $83,$1E,$2A,$00,$59,$00,$73,$00
+  .db $65,$3D,$C1,$0b,$05,$04,$00,$52
+  .db $1C,$00,$09,$00,$D7,$00,$56,$00
+  .db $01,$73,$00,$85,$00,$37,$1F,$04
+  .db $00,$39,$0c,$04,$00,$78,$00,$09
+  .db $1F,$04,$00,$83,$00,$EF,$00,$4D
+
+msg_0096:  ;[\n]"Fine," I said
+  .db $3D,$2A,$06,$53,$05,$1C,$2A,$00
+  .db $09,$00,$70
+
+msg_0097:  ;"How's Mr
+  .db $00,$2A,$90,$1F,$13,$00,$0d,$12
+
+msg_0098:  ;Spencer? He over his grippe yet?"[\n]"Over it! Holden, he's behaving like a perfect--I don't know
+           what
+  .db $00,$37,$1E,$00,$7A,$00,$7E,$00
+  .db $A5,$00,$EE,$00,$19,$05,$14,$1E
+  .db $2A,$3D,$2A,$0f,$16,$05,$12,$00
+  .db $4B,$1D,$00,$8F,$1C,$00,$AF,$1F
+  .db $13,$00,$02,$05,$08,$01,$16,$53
+  .db $07,$00,$47,$00,$01,$00,$10,$05
+  .db $12,$06,$05,$03,$14,$2F,$2F,$09
+  .db $00,$8A,$1F,$14,$00,$43,$00,$68
+
+msg_0099:  ;
+  .db $00
+
+msg_009A:  ;
+  .db $00
+
+msg_009B:  ;He's in his room, dear
+  .db $00,$7A,$1F,$13,$00,$53,$00,$A5
+  .db $00,$12,$0f,$0f,$0d,$1C,$00,$E3
+
+msg_009C:  ;Go[\n]right in
+  .db $00,$07,$0f,$3D,$56,$00,$53
+
+msg_009D:  ;"
+  .db $2A
+
